@@ -1,4 +1,4 @@
-# clippy-dictionary
+# Clippy Dictionary
 
 Comments dictionary for https://github.com/capJavert/clippy
 
