@@ -1,58 +1,58 @@
 {
-  "facebook": [
-    "It looks like you are spending too much time at this Face page... Maybe take a break?",
-    "In my time, all we had was Windows Live.."
-  ],
-  "stackoverflow":"Need help? You could have just asked me...",
-  "localhost":"It works! Good job!",
-  "twitter":"Tweets can only be 280 characters long!",
-  "github": "Need lessons in Python?",
-  "quora": [
-  	"????????????????",
-  	"What is my purpose?"
-  ],
-  "appcenter": [
-  	"It looks like you want to create an APP. Do you need help with windows phone?",
-  	"All your builds are failing. Do you need help?"
-  ],
-  "piratebay": [
-  	"You know you can get in trouble for this?",
-  	"Ahooooy captain, a big torrent abroad!"
-  ],
-  "netflix": "Netflix and chill?",
-  "popcorn": "I think you are spending too much time in front of the computer...",
-  "youtube": "Procrastinating again? Are you at work?",
-  "slack": "Uuuuu soo official!!!",
-  "mattermost": "I like this \"poor man slack\"!",
-  "chat.burza": "I like this \"poor man slack\"!",
-  "linkedin": "Looking for a job?",
-  "google": [
-    "Maybe try some written literature?",
-    "Did you try to google it? Ohh!",
-    "Maybe try bing? wink wink..."
-  ],
-  "pornhub": [
-    "It looks like you are watching porn. Did you close the door?",
-    "I won't watch...",
-    "Do you need recommendations?"
-  ],
-  "live.com": "I am homeeee",
-  "microsoft": "Hey Bill! Say Hi Bill!",
-  "messenger": "You know this counts as being on facebook, right?",
-  "godofwar": "Boooooooooooooooy!",
-  "store.playstation": "Your poor wallet..",
-  "spotify": "Did we just teleport to America?",
-  "reddit": [
-    "I think these guys need a serious redesign!!",
-    "I will never get this... Hmmmmhm...",
-    "Have you read it?"
-  ],
-  "kickass.website": [
-    "This website kicks ass! Get it?",
-    "Kicking since '94!"
-  ],
-  "meetup.com": "Awesome event, i'll be back...",
-  "ogame.gameforge.com": "Fly safe!",
-  "gmail.com": "Do you need glasses?",
-  "mail.google.com": "Do you need glasses?"
+    "facebook": [
+        "It looks like you are spending too much time at this Face page... Maybe take a break?",
+        "In my time, all we had was Windows Live.."
+    ],
+    "stackoverflow":"Need help? You could have just asked me...",
+    "localhost":"It works! Good job!",
+    "twitter":"Tweets can only be 280 characters long!",
+    "github": "Need lessons in Python?",
+    "quora": [
+        "????????????????",
+        "What is my purpose?"
+    ],
+    "appcenter": [
+        "It looks like you want to create an APP. Do you need help with windows phone?",
+        "All your builds are failing. Do you need help?"
+    ],
+    "piratebay": [
+        "You know you can get in trouble for this?",
+        "Ahooooy captain, a big torrent abroad!"
+    ],
+    "netflix": "Netflix and chill?",
+    "popcorn": "I think you are spending too much time in front of the computer...",
+    "youtube": "Procrastinating again? Are you at work?",
+    "slack": "Uuuuu soo official!!!",
+    "mattermost": "I like this \"poor man slack\"!",
+    "chat.burza": "I like this \"poor man slack\"!",
+    "linkedin": "Looking for a job?",
+    "google": [
+        "Maybe try some written literature?",
+        "Did you try to google it? Ohh!",
+        "Maybe try bing? wink wink..."
+    ],
+    "pornhub": [
+        "It looks like you are watching porn. Did you close the door?",
+        "I won't watch...",
+        "Do you need recommendations?"
+    ],
+    "live.com": "I am homeeee",
+    "microsoft": "Hey Bill! Say Hi Bill!",
+    "messenger": "You know this counts as being on facebook, right?",
+    "godofwar": "Boooooooooooooooy!",
+    "store.playstation": "Your poor wallet..",
+    "spotify": "Did we just teleport to America?",
+    "reddit": [
+        "I think these guys need a serious redesign!!",
+        "I will never get this... Hmmmmhm...",
+        "Have you read it?"
+    ],
+    "kickass.website": [
+        "This website kicks ass! Get it?",
+        "Kicking since '94!"
+    ],
+    "meetup.com": "Awesome event, i'll be back...",
+    "ogame.gameforge.com": "Fly safe!",
+    "gmail.com": "Do you need glasses?",
+    "mail.google.com": "Do you need glasses?"
 }
