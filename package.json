@@ -1,0 +1,28 @@
+{
+    "name": "clippy-dictionary",
+    "version": "1.0.0",
+    "description": "Comments dictionary  for Clippy browser extension.",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "node scripts/build.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/capJavert/clippy-dictionary.git"
+    },
+    "keywords": [
+        "json",
+        "dictionary",
+        "clippy",
+        "clippy-dictionary"
+    ],
+    "author": "capJavert",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/capJavert/clippy-dictionary/issues"
+    },
+    "homepage": "https://github.com/capJavert/clippy-dictionary#readme",
+    "devDependencies": {
+        "rimraf": "^3.0.0"
+    }
+}
