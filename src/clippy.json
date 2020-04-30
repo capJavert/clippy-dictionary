@@ -36,7 +36,10 @@
         "I won't watch...",
         "Do you need recommendations?"
     ],
-    "live.com": "I am homeeee",
+    "live.com": [
+        "I am homeeee",
+        "It looks like you're on Outlook. Would you like some help?"
+    ],
     "microsoft": "Hey Bill! Say Hi Bill!",
     "messenger": "You know this counts as being on facebook, right?",
     "godofwar": "Boooooooooooooooy!",
@@ -53,6 +56,12 @@
     ],
     "meetup.com": "Awesome event, i'll be back...",
     "ogame.gameforge.com": "Fly safe!",
-    "gmail.com": "Do you need glasses?",
-    "mail.google.com": "Do you need glasses?"
+    "gmail.com": [
+        "Do you need glasses?",
+        "Maybe try Outlook? wink wink..."
+    ],
+    "mail.google.com": [
+        "Do you need glasses?",
+        "Maybe try Outlook? wink wink..."
+    ]
 }
