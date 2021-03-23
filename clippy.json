@@ -1,12 +1,15 @@
 {
     "facebook": [
         "It looks like you are spending too much time at this Face page... Maybe take a break?",
-        "In my time, all we had was Windows Live.."
+        "Back in my day, all we had was Windows Live.."
     ],
-    "stackoverflow": "Need help? You could have just asked me...",
-    "localhost": "It works! Good job!",
+    "stackoverflow": "Need help? You could've just asked me... :(",
+    "localhost": "It works! Good job! ... wait, nevermind",
     "twitter": "Tweets can only be 280 characters long!",
-    "github": "Need lessons in Python?",
+    "github":  [
+        "Need lessons in Python?",
+        "Octocat is the best!"
+    ],
     "quora": [
         "????????????????",
         "What is my purpose?"
@@ -17,12 +20,15 @@
     ],
     "piratebay": [
         "You know you can get in trouble for this?",
-        "Ahooooy captain, a big torrent abroad!"
+        "Ahooooy captain, a big torrent abroad!",
+        "qBit torrent is the best client!"
     ],
     "netflix": "Netflix and chill?",
     "popcorn": "I think you are spending too much time in front of the computer...",
     "youtube": "Procrastinating again? Are you at work?",
     "slack": "Uuuuu soo official!!!",
+    "duckduckgo": "You just made google angry!",
+    "e621": "OwO what's this? X3",
     "mattermost": "I like this \"poor man slack\"!",
     "chat.burza": "I like this \"poor man slack\"!",
     "linkedin": "Looking for a job?",
@@ -45,6 +51,8 @@
     "godofwar": "Boooooooooooooooy!",
     "store.playstation": "Your poor wallet..",
     "spotify": "Did we just teleport to America?",
+    "tidal": "I see you're a person of refined audio quality aswell, Do you want me to download that as a FLAC?",
+    "qobuz": "Tidal is better...",
     "reddit": [
         "I think these guys need a serious redesign!!",
         "I will never get this... Hmmmmhm...",
@@ -78,5 +86,10 @@
         "Ещё пару необдуманных действий, и я начну форматировать ваш жёсткий диск...",
         "Обернись, он стоит сзади тебя!",
         "А ведь интернет был создан для обмена знаниями, а не за тем, для чего его используете вы..."
+    ],
+    "rutracker": [
+        "Здравствуй, товарищ. Вижу, ты занимаешься торрентингом файлов...",
+        "Убедитесь, что ваш VPN включен...",
+        "qBit торрент - лучший клиент!"
     ]
 }
