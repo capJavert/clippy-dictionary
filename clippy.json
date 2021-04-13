@@ -8,6 +8,7 @@
     "twitter": "Tweets can only be 280 characters long!",
     "github":  [
         "Need lessons in Python?",
+        "Need lessons in Go?",
         "Octocat is the best!"
     ],
     "quora": [
@@ -15,13 +16,13 @@
         "What is my purpose?"
     ],
     "appcenter": [
-        "It looks like you want to create an APP. Do you need help with windows phone?",
+        "It looks like you want to create an APP. Do you need help with Windows Mobile?",
         "All your builds are failing. Do you need help?"
     ],
     "piratebay": [
         "You know you can get in trouble for this?",
         "Ahooooy captain, a big torrent abroad!",
-        "qBit torrent is the best client!"
+        "qBittorrent is the best client!"
     ],
     "netflix": "Netflix and chill?",
     "popcorn": "I think you are spending too much time in front of the computer...",
@@ -50,8 +51,10 @@
     "messenger": "You know this counts as being on facebook, right?",
     "godofwar": "Boooooooooooooooy!",
     "store.playstation": "Your poor wallet..",
+    "nintendo": "I prefer Xbox...",
     "spotify": "Did we just teleport to America?",
     "tidal": "I see you're a person of refined audio quality aswell, Do you want me to download that as a FLAC?",
+    "winamp": "I prefer Windows Media Player...",
     "qobuz": "Tidal is better...",
     "reddit": [
         "I think these guys need a serious redesign!!",
