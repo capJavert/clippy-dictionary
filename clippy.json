@@ -6,7 +6,7 @@
     "stackoverflow": "Need help? You could've just asked me... :(",
     "localhost": "It works! Good job! ... wait, nevermind",
     "twitter": "Tweets can only be 280 characters long!",
-    "github":  [
+    "github": [
         "Need lessons in Python?",
         "Need lessons in Go?",
         "Octocat is the best!"
@@ -95,15 +95,14 @@
         "Убедитесь, что ваш VPN включен...",
         "qBit торрент - лучший клиент!"
     ],
-"scratch.mit.edu": [
-		"Time to start from scratch! Get it?",
-		"Block coding is pretty cool!",
-		"Wanna learn python?"
-	],
-"discord.com": [
-		"Chatting with friends, aren't you?",
-		"Make sure to get some fresh air outside, friend!",
-		"Back then, we had to email others to chat..."
-	]
+    "scratch.mit.edu": [
+        "Time to start from scratch! Get it?",
+        "Block coding is pretty cool!",
+        "Wanna learn python?"
+    ],
+    "discord.com": [
+        "Chatting with friends, aren't you?",
+        "Make sure to get some fresh air outside, friend!",
+        "Back then, we had to email others to chat..."
+    ]
 }
-   
