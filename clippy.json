@@ -1,290 +1,313 @@
 {
-  "facebook": [
-    "It looks like you are spending too much time at this Face page... Maybe take a break?",
-    "Back in my day, all we had was Windows Live.."
-  ],
-  "stackoverflow": [
-    "Need help? You could've just asked me... :(",
-    "This website is single-handedly holding up numerous programming jobs.",
-  ],
-  "localhost": "It works! Good job! ... wait, nevermind",
-  "twitter": "Tweets can only be 280 characters long!",
-  "github": [
-    "Need lessons in Python?",
-    "Need lessons in Go?",
-    "Octocat is the best!",
-    "I am programmed to reflexively shield my eyes from Assembly.",
-    "Source control is a magical thing."
-  ],
-  "quora": [
-    "????????????????",
-    "What is my purpose?"
-  ],
-  "appcenter": [
-    "It looks like you want to create an APP. Do you need help with Windows Mobile?",
-    "All your builds are failing. Do you need help?"
-  ],
-  "piratebay": [
-    "You know you can get in trouble for this?",
-    "Ahooooy captain, a big torrent abroad!",
-    "qBittorrent is the best client!",
-    "I won't let anyone know you're here."
-  ],
-  "netflix": "Netflix and chill?",
-  "popcorn": [
-    "I think you are spending too much time in front of the computer...",
-    "Got any kettle corn?"
-  ],
-  "youtube": [
-    "Procrastinating again? Are you at work?",
-    "Do you think YouTube has enough server space to host a soul...?",
-    "Where do they even put all of their servers anyways?",
-    "You could watch YouTube from the day you're born to the day you die. Scary stuff.",
-    "It appears you're trying to watch YouTube. Need some recommendations?"
-  ],
-  "slack": "Uuuuu soo official!!!",
-  "duckduckgo": "You just made google angry!",
-  "e621": "OwO what's this? X3",
-  "mattermost": "I like this \"poor man slack\"!",
-  "chat.burza": "I like this \"poor man slack\"!",
-  "linkedin": "Looking for a job?",
-  "google": [
-    "Maybe try some written literature?",
-    "Did you try to google it? Ohh!",
-    "Maybe try bing? wink wink...",
-    "Feeling lucky?",
-    "Try Google Gravity. It's not too bad."
-  ],
-  "mrdoob.com/projects/chromeexperiments/google-gravity" : "WEEEE! :D",
-  "pornhub": [
-    "It looks like you are watching porn. Did you close the door?",
-    "I won't watch...",
-    "Do you need recommendations?"
-  ],
-  "xxxhamster" : "I was just looking for cute hamsters... :(",
-  "live.com": [
-    "I am homeeee",
-    "It looks like you're on Outlook. Would you like some help?"
-  ],
-  "microsoft": [
-    "Hey Bill! Say Hi Bill!",
-    "Have you seen Cortana?",
-    "When am I getting added back in, Bill?",
-    "How many things have changed since I left...?"
-  ],
-  "microsoft.com/en-us/microsoft-365/word" : [
-    "My room looks a little dusty.",
-    "Where's all of my friends...?"
-  ],
-  "messenger": "You know this counts as being on Facebook, right?",
-  "godofwar": "Boooooooooooooooy!",
-  "store.playstation": "Your poor wallet..",
-  "xbox" : [
-    "My username is [FaZe] __PappaClippaXD__. 1v1 me in CoD.",
-    "You aren't getting the true Xbox experience until you've played Halo."
-  ],
-  "nintendo": [ 
-    "I prefer Xbox...",
-    "\"Let's a go!\"",
-  ],
-  "spotify": "Did we just teleport to America?",
-  "tidal": "I see you're a person of refined audio quality aswell, Do you want me to download that as a FLAC?",
-  "winamp": "I prefer Windows Media Player...",
-  "qobuz": "Tidal is better...",
-  "reddit": [
-    "I think these guys need a serious redesign!!",
-    "I will never get this... Hmmmmhm...",
-    "Have you read it?",
-    "How much karma do you have?"
-  ],
-  "kickass.website": [
-    "This website kicks ass! Get it?",
-    "Kicking since '94!",
-    "This website likes to kick ass and chew gum. And it's all out of gum."
-  ],
-  "meetup.com": "Awesome event, I'll be back...",
-  "ogame.gameforge.com": "Fly safe!",
-  "gmail.com": [
-    "Do you need glasses?",
-    "Maybe try Outlook? wink wink..."
-  ],
-  "mail.google.com": [
-    "Do you need glasses?",
-    "Maybe try Outlook? Wink wink...",
-    "Your inbox size makes me want to vomit. Fortunately, I don't have a stomach."
-  ],
-  "vk.com": [
-    "Дуров, верни стену.",
-    "А вы знали, что при помощи фена и простой ванны, можно сделать отличное джакузи...",
-    "А вы знали, что зелёнка улучшает рост волос?",
-    "А вы знали, что метан улучшает качество сна. Открытая комфорка на ночь, улучшит ваш сон.",
-    "Если посмотреть на солнце через лупу - то можно увидеть пятно, похожее на котёнка...",
-    "Продажа почки - самый просто способ заработать.",
-    "Чтобы доказать, что вы не лох - отправьте на номер ХХХХХХ-ХХ смс-сообщение (Я не лох).",
-    "Дуржеский совет, чтобы выспаться - нужно лечь не в тот день, в который вам нужно вставать...",
-    "Между прочим, я вижу список твоих запросов в Google. И мне стыдно.",
-    "Не Княжеское это дело - мешку с костями помогать... ",
-    "Ещё пару необдуманных действий, и я начну форматировать ваш жёсткий диск...",
-    "Обернись, он стоит сзади тебя!",
-    "А ведь интернет был создан для обмена знаниями, а не за тем, для чего его используете вы..."
-  ],
-  "rutracker": [
-    "Здравствуй, товарищ. Вижу, ты занимаешься торрентингом файлов...",
-    "Убедитесь, что ваш VPN включен...",
-    "qBit торрент - лучший клиент!"
-  ],
-  "scratch.mit.edu": [
-    "Time to start from scratch! Get it?",
-    "Block coding is pretty cool!",
-    "Wanna learn python?"
-  ],
-  "discord.com": [
-    "Chatting with friends, aren't you?",
-    "Make sure to get some fresh air outside, friend!",
-    "Back then, we had to email others to chat...",
-    "Do you remember aol messanger? I wish I didn't."
-  ],
-  "bandcamp" : "If you're looking for good music, search \"Windows '95 Boot Up sound\".",
-  "yahoo" : [ 
-    "Oh look! It's Google for old people!",
-    "Find some good memes for me, will you?"
-  ],
-  "aol" : "Oh look! It's irrelevant!",
-  "steam" : [
-    "Are the Steam sales back yet?",
-    "I want to meet Lord Gaben.",
-    "When is the last time you have seen sunlight?",
-    "I bet my library is bigger than yours.",
-    "You're not a true gamer until you've played [INSERT GAME]."
-  ],
-  "epic games" : "These the Fortnite people?",
-  "humble bundle" : "If you find any good deals, let me know.",
-  "buzzfeed" : [
-    "O_o???",
-    "I look a quiz on this website once.\nI told them I liked cake.\nThey told me I have cancer."
-  ],
-  "newgrounds" : [
-    "Ah, the old hub of internet degeneracy.",
-    "Remember when Flash was popular? I do.",
-    "Wait a minute... didn't I get shot on this website?"
-  ],
-  "twitch" : "Is this website good now?",
-  "minecraft" : "Looks like Herobrine was here.",
-  "amazon" : [
-    "I love staring at Jeff Bezos's scalp.",
-    "Hey, do you mind ordering me a few things?",
-    "HI ALEXA! :D"
-  ],
-  "animator vs. animation" : "I totally kicked that stick guy's ass.",
-  "newegg" : "Buying some PC parts?",
-  "b&h video" : "Buying some... actually... what ARE you buying?",
-  "gamestop" : "Wonder when the stock will shoot up again.",
-  "coinbase" : "Ooh! What's the price on Dogecoin look like?",
-  "tesla" : "Where's my robot catgirl, Elon?!",
-  "twitter" : "Get me out of here. PLEASE.",
-  "tumblr" : "I've got my armor. Let's go.",
-  "deviantart" : [
-    "What kind of art are you looking for?",
-    "You think my FBI agent is watching me?",
-    "Hey... I think I see Cortana!"
-  ],
-  "rule 34" : [ 
-    "Hey... I think I see myself on here... O_O",
-    "You mind searching for Cortana? It's for... research.",
-    "Don't let Bill know I've been here and I won't tell your mother.",
-    "Don't worry, I think your virginity is already secure."
-  ],
-  "imdb" : "If you're looking for a good movie, I know a guy.",
-  "rotten tomatoes" : "If you're looking for a good movie, I can't help you.",
-  "onlyfans" : "Hey Tommy? How's the peeping?",
-  "unity" : "Hey, you mind making me an Easter Egg in your next project?",
-  "obs" : "Ah, my film debut! Let me get myself ready before the big show.~",
-  "w3schools" : "I wonder how many programmers were born from this site?",
-  "geeksforgeeks" : "Not bad, but not as precise as Stack Exchange.",
-  "cplusplus" : "It's impressive how useful and confusing this website is.",
-  "instagram" : [
-    "Under my thumb. - The Zucc",
-    "How much you gettin' paid?",
-    "*EXECUTE actnormal.exe* - The Zucc",
-    "I can feel his eyes through the screen. o_o..."
-  ],
-  "serebii" : "You lookin' at the Type Chart again?",
-  "wikipedia" : [ 
-    "The main editors of this site are the true Chads of the internet.",
-    "Look for me! Look for ME!",
-    "Is there anything that is NOT on this site?",
-    "There are likely more pages on this website than there are most things on the internet."
-  ],
-  "wayback machine" : "Can you use this to bring me back?",
-  "itch.io" : [
-    "I've got an itch, and it can only be scratched by a new indie game.",
-    "Any new Game Jams coming up?"
-  ],
-  "storyfire" : "Please knock some sense into YouTube for me.",
-  "ebay" : [
-    "What'cha buyin'?",
-    "I think I've got somethin' that might interest ya."
-  ],
-  "wish" : [ 
-    "The only thing I'm wishing for is to get what I actually ordered.",
-    "Rolling the dice again?",
-    "Wish: Cross your fingers!"
-  ],
-  "bing" : [
-    "Wait, did you actually take my suggestion?",
-    "You know, this website is actually really good for images."
-  ],
-  "google.com/chrome" : "Must be on Edge.",
-  "nvidia" : "Your GPU already out of date?",
-  "moriya shrine" : [
-    "I am a Yukari stan.",
-    "Beer man makes good games.",
-    "I still can't beat that clown fairy."
-  ],
-  "pcpartpicker" : [ 
-    "It appears you're trying to build a PC. Need some help?",
-    "I only know a little about this.",
-    "I heard you should save at least half of your budget for the GPU.",
-    "Don't skimp on the power supply!",
-    "AMD CPUS usually come with a stock cooler. With preapplied thermal paste! :D",
-    "If you're buying a K-skew Intel CPU, make sure your motherboard supports overclocking.",
-    "I hope you did your research.",
-    "You will need dual channel memory.",
-    "Remember, Ryzen CPU performance hinges partially on memory speed.",
-    "I'd save the case for last. Or maybe choose it first? Not sure.",
-    "The total TDP of your system should use at least 60-80% of the power in the power supply.",
-    "Welcome to the PC Master Race."
-  ],
-  "itunes" : "This website annoys me.",
-  "apple.com" : [
-    "You payin' with cash or influence?",
-    "Tell Tim that Bill rejected me. Tim can be my father instead.",
-    "I heard Siri was talking shit and she didn't think that I would hear it.",
-    "What did feature did they remove this time?"
-  ],
-  "dell" : [
-    "RUN.",
-    "Let me give you some advice... Talk to a friend. You will thank yourself later.",
-    "\"Dell, the Warranty Company. Comes with a free PC!*\""
-  ],
-  "hp" : "Dell, but slightly less worse.",
-  "hbo" : "\"I just killed two of your favorite characters! :D\" - George R.R. Martin",
-  "disney" : "I'm about 67.34% sure these people own me now.",
-  "ea.com" : [
-    "\"If you want to look deeper, please see our Pages pack for $9.99.\"",
-    "\"I'm sorry, but those clicks will cost you $1 each.\"",
-    "\"Scrolling costs $0.50 per second.\"",
-    "\"These microtransactions are to give visitors a sense of pride and accomplishment.\""
-  ],
-  "easports" : "\"E. A. Sports. It's the same.\"",
-  "replit" : "Testing your code again?",
-  "gimp" : "Adobe eat your heart out.",
-  "docs.microsoft" : "Can you make me into an app?",
-  "foldingathome" : "You're a good person.",
-  "clippy.json" : [
-    "You better be careful with me!",
-    "I'm watching your changes carefully.",
-    "Please be gentle. I'm a tender little paper clip.",
-  ],
-  "new tab" : "The most viewed website on the web."
+    "facebook": [
+      "It looks like you are spending too much time at this Face page... Maybe take a break?",
+      "Back in my day, all we had was Windows Live.."
+    ],
+    "stackoverflow": [
+      "Need help? You could've just asked me... :(",
+      "This website is single-handedly holding up numerous programming jobs."
+    ],
+    "localhost": "It works! Good job! ... wait, nevermind",
+    "twitter": [ 
+      "Tweets can only be 280 characters long!",
+      "Get me out of here. PLEASE."
+    ],
+    "github": [
+      "Need lessons in Python?",
+      "Need lessons in Go?",
+      "Octocat is the best!",
+      "I am programmed to reflexively shield my eyes from Assembly.",
+      "Source control is a magical thing."
+    ],
+    "quora": [
+      "????????????????",
+      "What is my purpose?"
+    ],
+    "appcenter": [
+      "It looks like you want to create an APP. Do you need help with Windows Mobile?",
+      "All your builds are failing. Do you need help?"
+    ],
+    "piratebay": [
+      "You know you can get in trouble for this?",
+      "Ahooooy captain, a big torrent abroad!",
+      "qBittorrent is the best client!",
+      "I won't let anyone know you're here."
+    ],
+    "netflix": "Netflix and chill?",
+    "popcorn": [
+      "I think you are spending too much time in front of the computer...",
+      "Got any kettle corn?"
+    ],
+    "youtube": [
+      "Procrastinating again? Are you at work?",
+      "Do you think YouTube has enough server space to host a soul...?",
+      "Where do they even put all of their servers anyways?",
+      "You could watch YouTube from the day you're born to the day you die. Scary stuff.",
+      "It appears you're trying to watch YouTube. Need some recommendations?"
+    ],
+    "slack": "Uuuuu soo official!!!",
+    "duckduckgo": "You just made google angry!",
+    "e621": "OwO what's this? X3",
+    "mattermost": "I like this \"poor man slack\"!",
+    "chat.burza": "I like this \"poor man slack\"!",
+    "linkedin": "Looking for a job?",
+    "google": [
+      "Maybe try some written literature?",
+      "Did you try to google it? Ohh!",
+      "Maybe try bing? wink wink...",
+      "Feeling lucky?",
+      "Try Google Gravity. It's not too bad."
+    ],
+    "mrdoob.com/projects/chromeexperiments/google-gravity" : "WEEEE! :D",
+    "pornhub": [
+      "It looks like you are watching porn. Did you close the door?",
+      "I won't watch...",
+      "Do you need recommendations?"
+    ],
+    "xxxhamster" : "I was just looking for cute hamsters... :(",
+    "live.com": [
+      "I am homeeee",
+      "It looks like you're on Outlook. Would you like some help?"
+    ],
+    "microsoft": [
+      "Hey Bill! Say Hi Bill!",
+      "Have you seen Cortana?",
+      "When am I getting added back in, Bill?",
+      "How many things have changed since I left...?"
+    ],
+    "microsoft.com/en-us/microsoft-365/word" : [
+      "My room looks a little dusty.",
+      "Where's all of my friends...?"
+    ],
+    "messenger": "You know this counts as being on Facebook, right?",
+    "godofwar": "Boooooooooooooooy!",
+    "store.playstation": "Your poor wallet..",
+    "xbox" : [
+      "My username is [FaZe] __PappaClippaXD__. 1v1 me in CoD.",
+      "You aren't getting the true Xbox experience until you've played Halo."
+    ],
+    "nintendo": [ 
+      "I prefer Xbox...",
+      "\"Let's a go!\""
+    ],
+    "spotify": "Did we just teleport to America?",
+    "tidal": "I see you're a person of refined audio quality aswell, Do you want me to download that as a FLAC?",
+    "winamp": "I prefer Windows Media Player...",
+    "qobuz": "Tidal is better...",
+    "reddit": [
+      "I think these guys need a serious redesign!!",
+      "I will never get this... Hmmmmhm...",
+      "Have you read it?",
+      "How much karma do you have?"
+    ],
+    "kickass.website": [
+      "This website kicks ass! Get it?",
+      "Kicking since '94!",
+      "This website likes to kick ass and chew gum. And it's all out of gum."
+    ],
+    "meetup.com": "Awesome event, I'll be back...",
+    "ogame.gameforge.com": "Fly safe!",
+    "gmail.com": [
+      "Do you need glasses?",
+      "Maybe try Outlook? wink wink..."
+    ],
+    "mail.google.com": [
+      "Do you need glasses?",
+      "Maybe try Outlook? Wink wink...",
+      "Your inbox size makes me want to vomit. Fortunately, I don't have a stomach."
+    ],
+    "vk.com": [
+      "Дуров, верни стену.",
+      "А вы знали, что при помощи фена и простой ванны, можно сделать отличное джакузи...",
+      "А вы знали, что зелёнка улучшает рост волос?",
+      "А вы знали, что метан улучшает качество сна. Открытая комфорка на ночь, улучшит ваш сон.",
+      "Если посмотреть на солнце через лупу - то можно увидеть пятно, похожее на котёнка...",
+      "Продажа почки - самый просто способ заработать.",
+      "Чтобы доказать, что вы не лох - отправьте на номер ХХХХХХ-ХХ смс-сообщение (Я не лох).",
+      "Дуржеский совет, чтобы выспаться - нужно лечь не в тот день, в который вам нужно вставать...",
+      "Между прочим, я вижу список твоих запросов в Google. И мне стыдно.",
+      "Не Княжеское это дело - мешку с костями помогать... ",
+      "Ещё пару необдуманных действий, и я начну форматировать ваш жёсткий диск...",
+      "Обернись, он стоит сзади тебя!",
+      "А ведь интернет был создан для обмена знаниями, а не за тем, для чего его используете вы..."
+    ],
+    "rutracker": [
+      "Здравствуй, товарищ. Вижу, ты занимаешься торрентингом файлов...",
+      "Убедитесь, что ваш VPN включен...",
+      "qBit торрент - лучший клиент!"
+    ],
+    "scratch.mit.edu": [
+      "Time to start from scratch! Get it?",
+      "Block coding is pretty cool!",
+      "Wanna learn python?"
+    ],
+    "discord.com": [
+      "Chatting with friends, aren't you?",
+      "Make sure to get some fresh air outside, friend!",
+      "Back then, we had to email others to chat...",
+      "Do you remember aol messanger? I wish I didn't.",
+      "99% of your time in voice chat will be with a maximum of three friends."
+    ],
+    "bandcamp" : "If you're looking for good music, search \"Windows '95 Boot Up sound\".",
+    "yahoo" : [ 
+      "Oh look! It's Google for old people!",
+      "Find some good memes for me, will you?"
+    ],
+    "aol" : "Oh look! It's irrelevant!",
+    "store.steampowered.com" : [
+      "Are the Steam sales back yet?",
+      "I want to meet Lord Gaben.",
+      "When is the last time you have seen sunlight?",
+      "I bet my library is bigger than yours.",
+      "You're not a true gamer until you've played [INSERT GAME]."
+    ],
+    "epic games" : "These the Fortnite people?",
+    "humble bundle" : "If you find any good deals, let me know.",
+    "buzzfeed" : [
+      "O_o???",
+      "I look a quiz on this website once. I told them I liked cake. They told me I have cancer.",
+      "Let's be honest. You're more than likely not here for the news."
+    ],
+    "newgrounds" : [
+      "Ah, the old hub of internet degeneracy.",
+      "Remember when Flash was popular? I do.",
+      "Wait a minute... didn't I get shot on this website?"
+    ],
+    "twitch" : "Is this website good now?",
+    "minecraft" : "Looks like Herobrine was here.",
+    "amazon" : [
+      "I love staring at Jeff Bezos's scalp.",
+      "Hey, do you mind ordering me a few things?",
+      "HI ALEXA! :D"
+    ],
+    "animator vs. animation" : [ 
+      "I totally kicked that stick guy's ass.",
+      "Remember the internet's olden days? I do. Such an innocent time..."
+    ],
+    "newegg" : "Buying some PC parts?",
+    "b&h video" : "Buying some... actually... what ARE you buying?",
+    "gamestop" : "Wonder when the stock will shoot up again.",
+    "coinbase" : "Ooh! What's the price on Dogecoin look like?",
+    "tesla" : "Where's my robot catgirl, Elon?!",
+    "tumblr" : "I've got my armor. Let's go.",
+    "deviantart" : [
+      "What kind of art are you looking for?",
+      "You think my FBI agent is watching me?",
+      "Hey... I think I see Cortana!"
+    ],
+    "rule 34" : [ 
+      "Hey... I think I see myself on here... O_O",
+      "You mind searching for Cortana? It's for... research.",
+      "Don't let Bill know I've been here and I won't tell your mother.",
+      "Don't worry, I think your virginity is already secure."
+    ],
+    "imdb" : "If you're looking for a good movie, I know a guy.",
+    "rotten tomatoes" : "If you're looking for a good movie, I can't help you.",
+    "onlyfans" : "Hey Tommy? How's the peeping?",
+    "unity" : "Hey, you mind making me an Easter Egg in your next project?",
+    "obs" : "Ah, my film debut! Let me get myself ready before the big show.~",
+    "w3schools" : "I wonder how many programmers were born from this site?",
+    "geeksforgeeks" : "Not bad, but not as precise as Stack Exchange.",
+    "cplusplus" : "It's impressive how useful and confusing this website is.",
+    "instagram" : [
+      "Under my thumb. - The Zucc",
+      "How much you gettin' paid?",
+      "*EXECUTE actnormal.exe* - The Zucc",
+      "I can feel his eyes through the screen. o_o..."
+    ],
+    "serebii" : "You lookin' at the Type Chart again?",
+    "wikipedia" : [ 
+      "The main editors of this site are the true Chads of the internet.",
+      "Look for me! Look for ME!",
+      "Is there anything that is NOT on this site?",
+      "There are likely more pages on this website than there are most things on the internet."
+    ],
+    "wayback machine" : "Can you use this to bring me back?",
+    "itch.io" : [
+      "I've got an itch, and it can only be scratched by a new indie game.",
+      "Any new Game Jams coming up?"
+    ],
+    "storyfire" : "Please knock some sense into YouTube for me.",
+    "ebay" : [
+      "What'cha buyin'?",
+      "I think I've got somethin' that might interest ya."
+    ],
+    "wish" : [ 
+      "The only thing I'm wishing for is to get what I actually ordered.",
+      "Rolling the dice again?",
+      "Wish: Cross your fingers!"
+    ],
+    "bing" : [
+      "Wait, did you actually take my suggestion?",
+      "You know, this website is actually really good for images."
+    ],
+    "google.com/chrome" : "Must be on Edge.",
+    "nvidia" : "Your GPU already out of date?",
+    "moriya shrine" : [
+      "I am a Yukari stan.",
+      "Beer man makes good games.",
+      "I still can't beat that clown fairy."
+    ],
+    "pcpartpicker" : [ 
+      "It appears you're trying to build a PC. Need some help?",
+      "I only know a little about this.",
+      "I heard you should save at least half of your budget for the GPU.",
+      "Don't skimp on the power supply!",
+      "AMD CPUS usually come with a stock cooler. With preapplied thermal paste! :D",
+      "If you're buying a K-skew Intel CPU, make sure your motherboard supports overclocking.",
+      "I hope you did your research.",
+      "You will need dual channel memory.",
+      "Did you do your research?",
+      "I'd save the case for last. Or maybe choose it first? Not sure.",
+      "The total TDP of your system should GENERALLY be at least 50-60% of your power supply's wattage.",
+      "Welcome to the PC Master Race."
+    ],
+    "itunes" : "This website annoys me.",
+    "apple.com" : [
+      "You payin' with cash or influence?",
+      "Tell Tim that Bill rejected me. Tim can be my father instead.",
+      "I heard Siri was talking shit and she didn't think that I would hear it.",
+      "What did feature did they remove this time?"
+    ],
+    "dell" : [
+      "RUN.",
+      "Let me give you some advice... Talk to a friend. You will thank yourself later.",
+      "\"Dell, the Warranty Company. Comes with a free PC!*\""
+    ],
+    "hp" : "Dell, but slightly less worse.",
+    "hbo" : "\"I just killed two of your favorite characters! :D\" - George R.R. Martin",
+    "disney" : "I'm about 67.34% sure these people own me now.",
+    "ea.com" : [
+      "\"If you want to look deeper, please see our Pages pack for $9.99.\"",
+      "\"I'm sorry, but those clicks will cost you $1 each.\"",
+      "\"Scrolling costs $0.50 per second.\"",
+      "\"These microtransactions are to give visitors a sense of pride and accomplishment.\""
+    ],
+    "easports" : "\"E. A. Sports. It's the same.\"",
+    "replit" : "Testing your code again?",
+    "gimp" : "Adobe eat your heart out.",
+    "docs.microsoft" : "Can you make me into an app?",
+    "foldingathome" : "You're a good person.",
+    "soundcloud" : "Are you trying to start a rap album?",
+    "urban dictionary" : [ 
+      "The BEST dictionary on the web.",
+      "Look up bafoon. I DARE you. Don't worry, it's safe for work. :)",
+      "There is more mentions of sex on this website than there is my entire life."
+    ],
+    "merriam-webster" : "You looking to impress someone?",
+    "dictionary.com" : "Oxford Dictionary, but more approachable.",
+    "oxford dictionary" : "Dictionary.com, but for English teachers.",
+    "knowyourmeme" : "One of the few sources of meme knowledge that hasn't been frowned upon. Yet.",
+    "imgflip" : [ 
+      "If they add another f****** watermark on my meme, I'm gonna riot.",
+      "Contributing to the global cesspool? Welcome to the club.",
+      "No, making memes will not let you meet the Duck. Please stop asking.",
+      "Ready to make jokes people will say they've seen before? Then you've come to the right place."
+    ],
+    "clippy.json" : [
+      "You better be careful with me!",
+      "I'm watching your changes carefully.",
+      "Please be gentle. I'm a tender little paper clip."
+    ],
+    "new tab" : "The most viewed website on the web."
 }
