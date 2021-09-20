@@ -12,6 +12,7 @@
         "Tweets can only be 280 characters long!",
         "Get me out of here. PLEASE."
     ],
+    "github.com/capJavert/clippy": "Hey look, it's my code!",
     "github": [
         "Need lessons in Python?",
         "Need lessons in Go?",
@@ -111,6 +112,10 @@
     "mail.google.com": [
         "Do you need glasses?",
         "Maybe try Outlook? Wink wink..."
+    ],
+    "meet.google.com": [
+        "Who're you meeting?",
+        "Have you tried Zoom?"
     ],
     "vk.com": [
         "Дуров, верни стену.",
