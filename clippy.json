@@ -115,8 +115,10 @@
     ],
     "meet.google.com": [
         "Who're you meeting?",
-        "Have you tried Zoom?"
+        "Have you tried Microsoft Teams?",
+        "Microsoft Teams is better than both this and Zoom."
     ],
+    "zoom.us": "Tried Microsoft Teams? It's better.",
     "vk.com": [
         "Дуров, верни стену.",
         "А вы знали, что при помощи фена и простой ванны, можно сделать отличное джакузи...",
