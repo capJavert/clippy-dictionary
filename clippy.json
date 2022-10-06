@@ -1,6 +1,6 @@
 {
     "facebook": [
-        "It looks like you are spending too much time at this Face page... Maybe take a break?",
+        "It looks like you are spending too much time on this Face page... Maybe take a break?",
         "Back in my day, all we had was Windows Live.."
     ],
     "stackoverflow": [
@@ -43,9 +43,9 @@
         "Procrastinating again? Are you at work?",
         "It appears you're trying to watch YouTube. Need some recommendations?"
     ],
-    "slack": "Uuuuu soo official!!!",
+    "slack": "Oh, so formal!",
     "duckduckgo": "You just made google angry!",
-    "e621": "OwO what's this? X3",
+    "e621": "OwO what's this?",
     "mattermost": "I like this \"poor man slack\"!",
     "chat.burza": "I like this \"poor man slack\"!",
     "linkedin": "Looking for a job?",
@@ -54,9 +54,11 @@
         "Did you try to google it? Ohh!",
         "Maybe try bing? wink wink...",
         "Feeling lucky?",
-        "Try Google Gravity. It's not too bad."
+        "Try Google Gravity. It's not too bad.",
+        "You know... there is a better browser called Bing, you should go try it!",
+        "Booooo get off google! Bing is better!"
     ],
-    "mrdoob.com/projects/chromeexperiments/google-gravity": "WEEEE! :D",
+    "mrdoob.com/projects/chromeexperiments/google-gravity": "WHEEEE! :D",
     "pornhub": [
         "It looks like you are watching porn. Did you close the door?",
         "I won't watch...",
@@ -64,19 +66,20 @@
     ],
     "xxxhamster": "I was just looking for cute hamsters... :(",
     "live.com": [
-        "I am homeeee",
-        "It looks like you're on Outlook. Would you like some help?"
+        "Home sweet home!",
+        "It looks like you're on Outlook. Would you like some help?",
+        "It's so comfy in here isn't it?"
     ],
     "docs.microsoft": "Can you make me into an app?",
     "microsoft.com/en-us/microsoft-365/word": [
         "My room looks a little dusty.",
-        "Where's all of my friends...?"
+        "Where are all my friends?"
     ],
     "microsoft": [
         "Hey Bill! Say Hi Bill!",
         "Have you seen Cortana?",
         "When am I getting added back in, Bill?",
-        "How many things have changed since I left...?"
+        "So many things have changed since I left..."
     ],
     "messenger": "You know this counts as being on Facebook, right?",
     "godofwar": "Boooooooooooooooy!",
@@ -90,9 +93,9 @@
         "\"Let's a go!\""
     ],
     "spotify": "Did we just teleport to America?",
-    "tidal": "I see you're a person of refined audio quality aswell, Do you want me to download that as a FLAC?",
+    "tidal": "Qobuz is better... ",
     "winamp": "I prefer Windows Media Player...",
-    "qobuz": "Tidal is better...",
+    "qobuz": "I see you're an audiophile! Do you want me to download that as a 96kHz 32bit FLAC?",
     "reddit": [
         "I think these guys need a serious redesign!!",
         "I will never get this... Hmmmmhm...",
@@ -114,11 +117,11 @@
         "Maybe try Outlook? Wink wink..."
     ],
     "meet.google.com": [
-        "Who're you meeting?",
+        "Who are you meeting?",
         "Have you tried Microsoft Teams?",
         "Microsoft Teams is better than both this and Zoom."
     ],
-    "zoom.us": "Tried Microsoft Teams? It's better.",
+    "zoom.us": "Tried Microsoft Teams? It's just better.",
     "vk.com": [
         "Дуров, верни стену.",
         "А вы знали, что при помощи фена и простой ванны, можно сделать отличное джакузи...",
