@@ -18,7 +18,8 @@
         "Need lessons in Go?",
         "Octocat is the best!",
         "I am programmed to reflexively shield my eyes from Assembly.",
-        "Source control is a magical thing."
+        "Source control is a magical thing.",
+        "Use your brain, use Rust."
     ],
     "quora": [
         "????????????????",
@@ -32,7 +33,8 @@
         "You know you can get in trouble for this?",
         "Ahooooy captain, a big torrent abroad!",
         "qBittorrent is the best client!",
-        "I won't let anyone know you're here."
+        "I won't let anyone know you're here.",
+        "Don't forget to bring a VPN."
     ],
     "netflix": "Netflix and chill?",
     "popcorn": [
@@ -302,5 +304,10 @@
     "orangejellyfish.com": [
         "Team OJF are the best",
         "For Serverless, I don't know any better team"
+    ],
+    "archlinux.org" : [
+        "I use Arch btw.",
+        "Wanna learn how to exit Vim?",
+        "Arch btw"
     ]
 }
