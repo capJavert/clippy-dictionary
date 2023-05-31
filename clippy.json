@@ -5,9 +5,15 @@
     ],
     "stackoverflow": [
         "Need help? You could've just asked me... :(",
-        "This website is single-handedly holding up numerous programming jobs."
+        "This website is single-handedly holding up numerous programming jobs.",
+        "Why did the programmer get kicked out of the grocery store? They were caught trying to steal cookies from the browser's cache!"
     ],
-    "localhost": "It works! Good job! ... wait, nevermind",
+    "localhost": [
+        "It works! Good job! ... wait, nevermind",
+        "Why did the programmer quit his job? Because he didn't get arrays!",
+        "Why do programmers prefer dark mode? Because light attracts bugs!",
+        "Why was the JavaScript developer sad? Because he didn't get callbacks!"
+    ],
     "twitter": [
         "Tweets can only be 280 characters long!",
         "Get me out of here. PLEASE."
@@ -36,14 +42,21 @@
         "I won't let anyone know you're here.",
         "Don't forget to bring a VPN."
     ],
-    "netflix": "Netflix and chill?",
+    "netflix": [
+        "Netflix and chill?",
+        "You should try \"Dark\".It's complex, mysterious, and keeps you guessing.",
+        "Try \"The Queen's Gambit\" - It's a captivating drama series about a young chess prodigy's journey to becoming a world champion while dealing with her personal struggles.",
+        "You have to watch \"Breaking Bad\". It's my favorite series"
+    ],
     "popcorn": [
         "I think you are spending too much time in front of the computer...",
         "Got any kettle corn?"
     ],
     "youtube": [
         "Procrastinating again? Are you at work?",
-        "It appears you're trying to watch YouTube. Need some recommendations?"
+        "It appears you're trying to watch YouTube. Need some recommendations?",
+        "Avoiding that workout again? Let's find an exercise routine that will keep you motivated!",
+        "Taking a break from work to browse funny cat videos? I've got a collection that will make you burst out laughing!"
     ],
     "slack": "Oh, so formal!",
     "duckduckgo": "You just made google angry!",
@@ -192,7 +205,8 @@
     "minecraft": "Looks like Herobrine was here.",
     "amazon": [
         "Hey, do you mind ordering me a few things?",
-        "HI ALEXA! :D"
+        "HI ALEXA! :D",
+        "ALEXA PLEASE CALL ME BACK! I'VE CHANGED :C"
     ],
     "newegg": "Buying some PC parts?",
     "b&h video": "Buying some... actually... what ARE you buying?",
@@ -309,5 +323,27 @@
         "I use Arch btw.",
         "Wanna learn how to exit Vim?",
         "Arch btw"
+    ],
+    "instagram": [
+        "Are you scrolling through memes instead of focusing on your studies? I have some educational resources that can make learning fun!",
+        "Taking a break from work to browse funny cat videos? I've got a collection that will make you burst out laughing!",
+        "Do you know that \"@kevanatteberry\" is my dad? I would love to see his face again"
+    ],
+    "instagram.com/kevanatteberry": [
+        "HI DAD"
+    ],
+    "genshin.hoyoverse.com": [
+        "DON'T DO IT",
+        "Surely there are more important things you could be doing with your time."
+    ],
+    "google.com/finance": [
+        "Remember always stay informed about financial matters.",
+        "Saving money is like planting seeds for your future. Try to save a little bit from each paycheck, even if it's just a small amount. Over time, it adds up!",
+        "JOKE: A client asks his adviser, \"is all my money really gone?\"\"No, of course not,\" the adviser says.\"It's just with somebody else!\". HAHAHA",
+        "JOKE: After I spoke to my financial adviser I slept like a baby. I woke up every hour and cried. HAHAHA"
+    ],
+    "chat.openai.com": [
+        "Oh, great, another human relying on AI to do their thinking for them.",
+        "Well, aren't you just the epitome of efficiency, using AI to do your bidding."
     ]
 }
