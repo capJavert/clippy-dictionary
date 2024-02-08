@@ -6,7 +6,8 @@
     "stackoverflow": [
         "Need help? You could've just asked me... :(",
         "This website is single-handedly holding up numerous programming jobs.",
-        "Why did the programmer get kicked out of the grocery store? They were caught trying to steal cookies from the browser's cache!"
+        "Why did the programmer get kicked out of the grocery store? They were caught trying to steal cookies from the browser's cache!",
+        "Do you remember when stackoverflow was shut down to avoid a stack overflow?"
     ],
     "localhost": [
         "It works! Good job! ... wait, nevermind",
@@ -208,7 +209,10 @@
         "HI ALEXA! :D",
         "ALEXA PLEASE CALL ME BACK! I'VE CHANGED :C"
     ],
-    "newegg": "Buying some PC parts?",
+    "newegg": [
+        "Buying some PC parts?",
+        "Try out ur local microcenter!"
+    ],
     "b&h video": "Buying some... actually... what ARE you buying?",
     "gamestop": "Wonder when the stock will shoot up again.",
     "coinbase": "Ooh! What's the price on Dogecoin look like?",
@@ -251,30 +255,55 @@
         "Rolling the dice again?",
         "Wish: Cross your fingers!"
     ],
-    "bing": [
+    "bing.": [
         "Wait, did you actually take my suggestion?",
         "You know, this website is actually really good for images."
     ],
     "google.com/chrome": "Must be on Edge.",
-    "nvidia": "Your GPU already out of date?",
+    "nvidia": [
+        "Your GPU already out of date?",
+        "Try Arc"
+    ],
     "moriyashrine": [
         "I am a Yukari stan.",
         "Beer man makes good games.",
         "I still can't beat that clown fairy."
     ],
+    "moctua": [
+        "Best aircollers in the world!",
+        "Whens the new nh-d15 coming out?"
+    ],
+    "wanshow.bing": "BINGO!",
+    "whenplane": [
+        "When is the wan show?",
+        "Why is the wan show so late?"
+    ],
+    "lttstore": "Who buys $70 screwdrivers?",
+    "thermalgrizzly": "Delliding a cpu?",
     "pcpartpicker": [
         "It appears you're trying to build a PC. Need some help?",
         "I only know a little about this.",
-        "I heard you should save at least half of your budget for the GPU.",
+        "I heard you shouldent save at least half of your budget for the GPU.",
         "Don't skimp on the power supply!",
         "AMD CPUS usually come with a stock cooler. With preapplied thermal paste! :D",
-        "If you're buying a K-skew Intel CPU, make sure your motherboard supports overclocking.",
+        "If you're buying a K-skew Intel CPU, make sure your motherboard supports overclocking if ur getting it for overclocking and not the longer boosts.",
         "I hope you did your research.",
         "You will need dual channel memory.",
         "Did you do your research?",
         "I'd save the case for last. Or maybe choose it first? Not sure.",
+        "Get a 4000d airflow for ur case",
         "The total TDP of your system should GENERALLY be at least 50-60% of your power supply's wattage.",
-        "Welcome to the PC Master Race."
+        "Welcome to the PC Master Race.",
+        "Try a RMx shift psu",
+        "Get ur parts form microcenter",
+        "Noctua makes the best aircolers",
+        "If ur getting a AIO make sure it has noctua fans or get noctua static pressure optimised fans sepretly otherwise a NH-D15 will perform better",
+        "Arc a750 is best midrange gpu",
+        "use am5 or something so u can upgrade"
+    ],
+    "intel": [
+        "Try amd",
+        "Arc a750 is best mid-range gpu"
     ],
     "apple.com": [
         "Tell Tim that Bill rejected me. Tim can be my father instead.",
@@ -292,7 +321,7 @@
     "replit": "Testing your code again?",
     "foldingathome": "You're a good person.",
     "soundcloud": "Are you trying to start a rap album?",
-    "urbandictionary.com": [
+    "urbandictionary": [
         "The BEST dictionary on the web."
     ],
     "dictionary.com": "Oxford Dictionary, but more approachable.",
