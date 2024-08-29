@@ -27,15 +27,13 @@
         "I am programmed to reflexively shield my eyes from Assembly.",
         "Source control is a magical thing.",
         "Use your brain, use Rust."
-            ],
     ],
-    "monsoonjr99.github.io/cyclone-sim/": [ 
+    "monsoonjr99.github.io/cyclone-sim/": [
         "WATCH OUT PHILIPPINES!",
         "wow typhoon good very storm",
         "wow hurricane good very storm",
         "if damage = 1b dollar or more, retire name remember that",
         "WATCH OUT THERES A CYCLONE OMGOMG"
-            ],
     ],
     "quora": [
         "????????????????",
@@ -344,7 +342,7 @@
         "Team OJF are the best",
         "For Serverless, I don't know any better team"
     ],
-    "archlinux.org" : [
+    "archlinux.org": [
         "I use Arch btw.",
         "Wanna learn how to exit Vim?",
         "Arch btw"
@@ -374,5 +372,5 @@
     "icanhas.cheezburger": [
         "i can haz chezburger?",
         "i perforee i iz in yer folderz keruptine yor files"
-    ]    
+    ]
 }
