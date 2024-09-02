@@ -28,6 +28,12 @@
         "Source control is a magical thing.",
         "Use your brain, use Rust."
     ],
+    "monsoonjr99.github.io/cyclone-sim/": [
+        "WATCH OUT PHILIPPINES!",
+        "wow typhoon good very storm",
+        "wow hurricane good very storm",
+        "WATCH OUT THERES A CYCLONE OMGOMG"
+    ],
     "quora": [
         "????????????????",
         "What is my purpose?"
@@ -57,7 +63,9 @@
         "Procrastinating again? Are you at work?",
         "It appears you're trying to watch YouTube. Need some recommendations?",
         "Avoiding that workout again? Let's find an exercise routine that will keep you motivated!",
-        "Taking a break from work to browse funny cat videos? I've got a collection that will make you burst out laughing!"
+        "Taking a break from work to browse funny cat videos? I've got a collection that will make you burst out laughing!",
+        "BFDI is one of my favourite series!",
+        "Maybe try microsoft stream? wink wink..."
     ],
     "slack": "Oh, so formal!",
     "duckduckgo": "You just made google angry!",
@@ -333,7 +341,7 @@
         "Team OJF are the best",
         "For Serverless, I don't know any better team"
     ],
-    "archlinux.org" : [
+    "archlinux.org": [
         "I use Arch btw.",
         "Wanna learn how to exit Vim?",
         "Arch btw"
@@ -363,5 +371,5 @@
     "icanhas.cheezburger": [
         "i can haz chezburger?",
         "i perforee i iz in yer folderz keruptine yor files"
-    ]    
+    ]
 }
