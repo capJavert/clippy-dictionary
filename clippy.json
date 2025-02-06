@@ -178,7 +178,11 @@
         "the scratch wiki has a wacky domain name",
         "the scratch team's admin panel may have at some point had a template specifically for fnaf project alerts",
         "scratchdb might stand for scratch donut buffet",
-        "any scratch url starting https://scratch.mit.edu/go leads to a 403"
+        "any scratch url starting https://scratch.mit.edu/go leads to a 403",
+        "Insert a cool scratch fact here.",
+        "Wanna learn java?",
+        "Wanna learn lua?",
+        "Wanna learn html5?"
     ],
     "discord.com": [
         "Chatting with friends, aren't you?",
@@ -377,5 +381,12 @@
         "It appears you are looking for a game to play. May I suggest one?",
         "Flash may be gone, but not forgotten. There's always the HTML ports!",
         "Maybe try out Test Subject Blue?"
+    ],
+    "sodalite-nice.neocities.org": [
+        "The person who made this website is also responsible for making this text.",
+        "SODALITE FTW",
+        "NEOCITIES FTW",
+        "Ya gotta check out the wiki!",
+        "The Alliance database shows info about Sodalite's friends & classmates."
     ]
 }
