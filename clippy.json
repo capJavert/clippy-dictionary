@@ -13,6 +13,7 @@
         "It works! Good job! ... wait, nevermind",
         "Why did the programmer quit his job? Because he didn't get arrays!",
         "Why do programmers prefer dark mode? Because light attracts bugs!",
+        "What is something all programmers are allergic to? Grass!",
         "Why was the JavaScript developer sad? Because he didn't get callbacks!"
     ],
     "x.com": [
@@ -110,6 +111,7 @@
     "store.playstation": "Your poor wallet..",
     "xbox": [
         "My username is [FaZe] __PappaClippaXD__. 1v1 me in CoD.",
+        "Why is the xbox logo a circle?",
         "You aren't getting the true Xbox experience until you've played Halo."
     ],
     "nintendo": [
@@ -127,7 +129,7 @@
         "How much karma do you have?"
     ],
     "kickass.website": [
-        "This website kicks ass! Get it?",
+        "This website kicks A$$! Get it?",
         "Kicking since '94!"
     ],
     "meetup.com": "Awesome event, I'll be back...",
@@ -237,6 +239,12 @@
     "wikipedia": [
         "Look for me! Look for ME!",
         "Is there anything that is NOT on this site?",
+        "There are likely more pages on this website than there are most things on the internet."
+    ],
+    "fandom": [
+        "Look for me! Look for ME!",
+        "Is there anything that is NOT on this site?",
+        "Ah, now i finally now how to craft wood planks.",
         "There are likely more pages on this website than there are most things on the internet."
     ],
     "archive.org": "Can you use this to bring me back?",
@@ -367,10 +375,11 @@
     "google.com/finance": [
         "Remember always stay informed about financial matters.",
         "Saving money is like planting seeds for your future. Try to save a little bit from each paycheck, even if it's just a small amount. Over time, it adds up!",
-        "JOKE: A client asks his adviser, \"is all my money really gone?\"\"No, of course not,\" the adviser says.\"It's just with somebody else!\". HAHAHA",
-        "JOKE: After I spoke to my financial adviser I slept like a baby. I woke up every hour and cried. HAHAHA"
+        "JOKE: A client asks his adviser, \"Is all my money really gone?\"\"No, of course not,\" the adviser says.\"It's just with somebody else!\". HAHAHA",
+        "JOKE: After I spoke to my financial adviser, I slept like a baby. I woke up every hour and cried. HAHAHA"
     ],
     "chatgpt.com": [
+        "Wow, so you are just gonna pretend I don't exist?",
         "Oh, great, another human relying on AI to do their thinking for them.",
         "Well, aren't you just the epitome of efficiency, using AI to do your bidding."
     ],
@@ -397,6 +406,15 @@
         "I am looking at you, Aspect_SGK!",
         "Ya'll gotta check out the wiki!",
         "If this site ain't workin', it's probably Arthur's fat cat sitting on his router."
+    ],
+    "sticksfight.com": [
+        "They look familiar...",
+        "Is that the guy that beat me up?",
+        "\"I swear nothing comes out of this guys mouth"\"
+    ],
+    "sites.google.com/view/geometry-dash-games" [
+        "what the heck are you playing",
+        "this is totally legal!"
     ],
     "daily.dev": [
         ":hidethepain:",
