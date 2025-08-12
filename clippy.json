@@ -72,7 +72,10 @@
     "e621": "OwO what's this?",
     "mattermost": "I like this \"poor man slack\"!",
     "chat.burza": "I like this \"poor man slack\"!",
-    "linkedin": "Looking for a job?",
+    "linkedin": [
+        "Looking for a job?",
+        "Unemployed, huh?"
+    ],
     "google": [
         "Maybe try some written literature?",
         "Did you try to google it? Ohh!",
@@ -84,9 +87,9 @@
     ],
     "mrdoob.com/projects/chromeexperiments/google-gravity": "WHEEEE! :D",
     "pornhub": [
-        "It looks like you are watching porn. Did you close the door?",
-        "I won't watch...",
-        "Do you need recommendations?"
+        "C'mon man...",
+        "I am NOT gonna watch...",
+        "Go play some Minecraft instead."
     ],
     "xxxhamster": "I was just looking for cute hamsters... :(",
     "live.com": [
@@ -110,10 +113,12 @@
     "store.playstation": "Your poor wallet..",
     "xbox": [
         "My username is [FaZe] __PappaClippaXD__. 1v1 me in CoD.",
+        "Why is the Xbox logo a sphere?",
         "You aren't getting the true Xbox experience until you've played Halo."
     ],
     "nintendo": [
         "I prefer Xbox...",
+        "Since 1889!",
         "\"Let's a go!\""
     ],
     "spotify": "Did we just teleport to America?",
@@ -153,39 +158,42 @@
     ],
     "scratch.mit.edu": [
         "Time to start from scratch! Get it?",
+        "You should check out Martin_MMC, cool guy, he is.",
         "Block coding is pretty cool!",
-        "Wanna learn python?",
-        "gobo might have been the mascot for scratch",
-        "the scratch team owns the domain scratch.team",
-        "there was a small window of time where you could backpack scratchblocks from the forums",
-        "the scratch team can see your gender",
-        "scratch projects are never deleted unless specifically you ask the scratch team to",
+        "Wanna learn Python?",
+        "Gobo might have been the mascot for Scratch",
+        "The Scratch team owns the domain scratch.team",
+        "There was a small window of time where you could backpack scratchblocks from the forums",
+        "The scratch team can see your gender.",
+        "Scratch projects are never deleted unless you specifically ask the Scratch team to",
         "scrath has a bug bounty program",
         "scratch owns the domain scratch.pizza",
         "scratch owns the domain scratch.love",
         "We are experiencing a disruption with email delivery. If you are not receiving emails from us, please try after 8am EST.",
         "backpack.scratch.mit.edu has a funny ghost",
         "download.scratch.mit.edu says Scratch On!",
-        "downloads.scratch.mit.edu has a one of a kind error page",
+        "downloads.scratch.mit.edu has a one-of-a-kind error page",
         "downloads.scratch.ly just says No",
         "projects.scratch.mit.edu has an easter egg in the HTTP response headers",
-        "during scratch 2's development there was a built in scrolling system for projects",
-        "scratch has a discussion forum",
-        "each of gobo's friends names come from the metric prefix for powers of 10",
-        "today is probably someone's birthday on scratch",
-        "the first scratch project was id 104, everything with a lower id was added later",
-        "i want you to see za-chary's 5000 Followers Podcast",
-        "the scratch wiki has a wacky domain name",
-        "the scratch team's admin panel may have at some point had a template specifically for fnaf project alerts",
+        "During Scratch 2's development, there was a built-in scrolling system for projects.",
+        "Scratch has a discussion forum.",
+        "Each of Gobo's friends' names come from the metric prefix for powers of 1.0",
+        "Today is probably someone's birthday on scratch",
+        "the first scratch project was ID 104, everything with a lower ID was added later.",
+        "I want you to see Za-Chary's 5000 Followers Podcast",
+        "The scratch wiki has a wacky domain name",
+        "The scratch team's admin panel may have at some point had a template specifically for FNAF project alerts.",
         "scratchdb might stand for scratch donut buffet",
         "any scratch url starting https://scratch.mit.edu/go leads to a 403",
         "Insert a cool scratch fact here.",
+        "Goodbye Geometry Dash Scratch...",
         "Wanna learn java?",
         "Wanna learn lua?",
         "Wanna learn html5?"
     ],
     "discord.com": [
         "Chatting with friends, aren't you?",
+        "Wow, I sure hope this chat doesn't get leaked!",
         "Make sure to get some fresh air outside, friend!",
         "Back then, we had to email others to chat..."
     ],
@@ -240,6 +248,7 @@
     "archive.org": "Can you use this to bring me back?",
     "itch.io": [
         "I've got an itch, and it can only be scratched by a new indie game.",
+        "Felling itchy?",
         "Any new Game Jams coming up?"
     ],
     "storyfire": "Please knock some sense into YouTube for me.",
@@ -250,6 +259,7 @@
     "wish": [
         "The only thing I'm wishing for is to get what I actually ordered.",
         "Rolling the dice again?",
+        "Reply hazy, try again later.",
         "Wish: Cross your fingers!"
     ],
     "bing.": [
@@ -280,31 +290,31 @@
     "pcpartpicker": [
         "It appears you're trying to build a PC. Need some help?",
         "I only know a little about this.",
-        "I heard you shouldent save at least half of your budget for the GPU.",
+        "I heard you shouldn't save at least half of your budget for the GPU.",
         "Don't skimp on the power supply!",
-        "AMD CPUS usually come with a stock cooler. With preapplied thermal paste! :D",
+        "AMD CPUS usually come with a stock cooler. With pre-applied thermal paste! :D",
         "If you're buying a K-skew Intel CPU, make sure your motherboard supports overclocking if ur getting it for overclocking and not the longer boosts.",
         "I hope you did your research.",
-        "You will need dual channel memory.",
+        "You will need dual-channel memory.",
         "Did you do your research?",
         "I'd save the case for last. Or maybe choose it first? Not sure.",
-        "Get a 4000d airflow for ur case",
+        "Get a 4000D airflow for ur case",
         "The total TDP of your system should GENERALLY be at least 50-60% of your power supply's wattage.",
         "Welcome to the PC Master Race.",
-        "Try a RMx shift psu",
-        "Get ur parts form microcenter",
-        "Noctua makes the best aircolers",
-        "If ur getting a AIO make sure it has noctua fans or get noctua static pressure optimised fans sepretly otherwise a NH-D15 will perform better",
-        "Arc a750 is best midrange gpu",
-        "use am5 or something so u can upgrade"
+        "Try a RMx shift PSU",
+        "Get ur parts from Microcenter",
+        "Noctua makes the best air coolers.",
+        "If ur getting an AIO, make sure it has noctua fans or get noctua static pressure optimised fans separately; otherwise, a NH-D15 will perform better.",
+        "Arc A750 is the best midrange GPU",
+        "Use am5 or something so u can upgrade."
     ],
     "intel": [
-        "Try amd",
-        "Arc a750 is best mid-range gpu"
+        "Try AMD",
+        "Arc A750 is the best mid-range GPU."
     ],
     "apple.com": [
         "Tell Tim that Bill rejected me. Tim can be my father instead.",
-        "I heard Siri was talking shit and she didn't think that I would hear it."
+        "I heard Siri was talking crap, and she didn't think that I would hear it."
     ],
     "hbo": "\"I just killed two of your favorite characters! :D\" - George R.R. Martin",
     "disney": "I'm about 67.34% sure these people own me now.",
@@ -370,6 +380,7 @@
     ],
     "chatgpt.com": [
         "Oh, great, another human relying on AI to do their thinking for them.",
+        "Hey, you know I exist, right?",
         "Well, aren't you just the epitome of efficiency, using AI to do your bidding."
     ],
     "icanhas.cheezburger": [
@@ -388,6 +399,18 @@
         "NEOCITIES FTW",
         "Ya gotta check out the wiki!",
         "The Alliance database shows info about Sodalite's friends & classmates."
+    ],
+    "bloxd.io": [
+        "Totally Original!",
+        "I am watching you, Aspect_SGK...:,
+        "You will be missed, Blueify...",
+        "Is the V0ID actually real?",
+        "Also try dblox.io!",
+        "Developing games since 2021!",
+        "Also check out the wiki!",
+        "Back in my day, we had minesweeper...",
+        "When is Martin_MMC gonna run out of illegal items?",
+        "Is that the Discord Minecraft?"
     ],
     "daily.dev": [
         ":hidethepain:",
