@@ -1,6 +1,7 @@
 {
     "facebook": [
         "It looks like you are spending too much time on this Face page... Maybe take a break?",
+        "Hello, millenial!",
         "Back in my day, all we had was Windows Live.."
     ],
     "stackoverflow": [
@@ -17,6 +18,7 @@
     ],
     "x.com": [
         "Tweets can only be 280 characters long!",
+        "It appears that you are trying to get cabcled. Need any recommendations?",
         "Get me out of here. PLEASE."
     ],
     "github.com/capJavert/clippy": "Hey look, it's my code!",
@@ -53,7 +55,7 @@
         "Netflix and chill?",
         "You should try \"Dark\".It's complex, mysterious, and keeps you guessing.",
         "Try \"The Queen's Gambit\" - It's a captivating drama series about a young chess prodigy's journey to becoming a world champion while dealing with her personal struggles.",
-        "You have to watch \"Breaking Bad\". It's my favorite series"
+        "You have to watch \"Breaking Bad\". It's my favorite series."
     ],
     "popcorn": [
         "I think you are spending too much time in front of the computer...",
@@ -65,6 +67,7 @@
         "Avoiding that workout again? Let's find an exercise routine that will keep you motivated!",
         "Taking a break from work to browse funny cat videos? I've got a collection that will make you burst out laughing!",
         "BFDI is one of my favourite series!",
+        "That essay is not going to write itself...",
         "Maybe try microsoft stream? wink wink..."
     ],
     "slack": "Oh, so formal!",
@@ -79,6 +82,7 @@
         "Maybe try bing? wink wink...",
         "Feeling lucky?",
         "Try Google Gravity. It's not too bad.",
+        "It appears that you are trying to look up something. Need any recommendations?",
         "You know... there is a better browser called Bing, you should go try it!",
         "Booooo get off google! Bing is better!"
     ],
@@ -180,6 +184,8 @@
         "scratchdb might stand for scratch donut buffet",
         "any scratch url starting https://scratch.mit.edu/go leads to a 403",
         "Insert a cool scratch fact here.",
+        "RIP Geometry Dash Scratch...",
+        "Wanna learn Python?",
         "Wanna learn java?",
         "Wanna learn lua?",
         "Wanna learn html5?"
@@ -370,6 +376,7 @@
     ],
     "chatgpt.com": [
         "Oh, great, another human relying on AI to do their thinking for them.",
+        "Back in my day, people only had me...",
         "Well, aren't you just the epitome of efficiency, using AI to do your bidding."
     ],
     "icanhas.cheezburger": [
@@ -390,7 +397,7 @@
         "The Alliance database shows info about Sodalite's friends & classmates."
     ],
     "roblox": [
-        "Back in my day, we had minesweeper...",
+        "Back in my day, we had Minesweeper...",
         "Life isn't just about growing gardens...",
         "It appears you are trying to play Roblox. Need any dating advice?"
     ],
@@ -402,7 +409,7 @@
         "Also try dblox.io!",
         "Developing games since 2021!",
         "Also check out the wiki!",
-        "Back in my day, we had minesweeper...",
+        "Back in my day, we had Minesweeper...",
         "This should be Microsoft's next purchase...",
         "Bloxd.io is not a dating site.",
         "Also try CraftMine!",
@@ -412,7 +419,7 @@
         "If you pay 10 bucks, you can get these cool lightning capes.",
         "They should add BloxD Fruits.",
         "An iron watermelon is a good source of iron.",
-        "They finally added update gamemode descriptions.",
+        "They finally added updated gamemode descriptions.",
         "No, this is not Roblox.",
         "Greenville is not an Adopt Me game.",
         "It appears that you are trying to play Minecraft but with Firearms.",
@@ -465,11 +472,6 @@
         "It appears that you are trying to play Geometry Dash. Would you like level recommendations?",
         "Prepare to rage...",
         "Not for the faint of heart!"
-    ],
-    ".com": [
-        "I am programmed to be annoying!",
-        "How has your day been?",
-        "It appears that you are on the internet."
     ],
     "daily.dev": [
         ":hidethepain:",
