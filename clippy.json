@@ -389,6 +389,11 @@
         "Ya gotta check out the wiki!",
         "The Alliance database shows info about Sodalite's friends & classmates."
     ],
+    "roblox": [
+        "Back in my day, we had minesweeper...",
+        "Life isn't just about growing gardens...",
+        "It appears you are trying to play Roblox. Need any dating advice?"
+    ],
     "bloxd.io": [
         "Totally Original!",
         "I am watching you, Aspect_SGK...",
@@ -398,19 +403,19 @@
         "Developing games since 2021!",
         "Also check out the wiki!",
         "Back in my day, we had minesweeper...",
-        "This should be Microsofts next purchase...",
+        "This should be Microsoft's next purchase...",
         "Bloxd.io is not a dating site.",
         "Also try CraftMine!",
         "RIP Stardue...",
         "RIP Mattzap... He was a Legend...",
         "Who even plays Bingo?",
-        "If yo pay 10 bucks, you can can get these cool lightning capes.",
+        "If you pay 10 bucks, you can get these cool lightning capes.",
         "They should add BloxD Fruits.",
-        "An iron watermelonm is a good source of iron.",
+        "An iron watermelon is a good source of iron.",
         "They finally added update gamemode descriptions.",
-        "No this is not Roblox.",
+        "No, this is not Roblox.",
         "Greenville is not an Adopt Me game.",
-        "It appears that you are trying to play Minecraft but with Firearms",
+        "It appears that you are trying to play Minecraft but with Firearms.",
         "Grow & Farm is just a Bloxd.io Edition of Farming Simulator.",
         "When is Martin_MMC gonna run out of illegal items?",
         "Don't you dare play Simon Says!",
@@ -420,11 +425,52 @@
         "Go to staging.bloxd.io to access secret Gamemodes.",
         "Bloxd Resources offers a variety of secret bloxd.io versions.",
         "Who remembers Anarchy?",
+        "Hello Pro Player!",
         "Join the Discord!",
-        "It appears that you are trying to play bloxd.io. Are you esacping responsabilities?",
-        "It appears that you are trying to play Bloxd.io. Need any gamemode reccomandations?"
+        "It appears that you are trying to play bloxd.io. Are you escaping responsibilities?",
+        "It appears that you are trying to play bloxd.io. Need any gamemode recommendations?",
+        "Hello Pro Player!"
     ],
-    "sites.google.com/view/geometry-dash-games"
+    "sites.google.com/view/geometry-dash-games": [
+        "It appears that you are trying to play knock-off Geometry Dash. ... why?",
+        "Very Original!",
+        "Escaping responsibilities?",
+        "Made by Martin_MMC!",
+        "In your face, 1games!",
+        "In your face GeometryDashLite.online!",
+        "In your face GeometryLite.io!",
+        "Inspired by GDColon.",
+        "WHAT THE HELL IS A \"XAS\"?!",
+        "Choose your xas.",
+        "It appears you are trying to play \"Dashmetry\". Very original.",
+        "Whoever made this must be a genius...",
+        "Wow, whoever came up with Dashmetry must be a genius...",
+        "The Rager Game!",
+        "Not for the faint of heart!",
+        "It appears that the site is made by Martin_MMC.",
+        "... What is \"lobotomy dash\"?",
+        "The site owner must be unemployed."
+    ],
+    "sites.google.com/view/bloxd-resources": [
+        "It appears that you are trying to play bloxd.io. Need any gamemode recommendations?",
+        "You are very \"resourceful\" with your time.",
+        "It appears that the site owner doesn't know how to code...",
+        "Join the discord!",
+        "It appears that the site is made by Martin_MMC.",
+        "Who even uses \"Bloxd Comic Studio\"?",
+        "Hello Pro Player!"
+    ],
+    "geometrydash": [
+        "Back in my day, we had Super Mario Bros.",
+        "It appears that you are trying to play Geometry Dash. Would you like level recommendations?",
+        "Prepare to rage...",
+        "Not for the faint of heart!"
+    ],
+    ".com": [
+        "I am programmed to be annoying!",
+        "How has your day been?",
+        "It appears that you are on the internet."
+    ],
     "daily.dev": [
         ":hidethepain:",
         "Why read daily.dev when I can read it for you?",
