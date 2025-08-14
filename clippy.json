@@ -1,7 +1,7 @@
 {
     "facebook": [
         "It looks like you are spending too much time on this Face page... Maybe take a break?",
-        "Hello, millenial!",
+        "Hello, millennial!",
         "Back in my day, all we had was Windows Live.."
     ],
     "stackoverflow": [
@@ -18,7 +18,7 @@
     ],
     "x.com": [
         "Tweets can only be 280 characters long!",
-        "It appears that you are trying to get cabcled. Need any recommendations?",
+        "It appears that you are trying to get canceled. Need any recommendations?",
         "Get me out of here. PLEASE."
     ],
     "github.com/capJavert/clippy": "Hey look, it's my code!",
@@ -160,29 +160,29 @@
         "Block coding is pretty cool!",
         "Wanna learn python?",
         "gobo might have been the mascot for scratch",
-        "the scratch team owns the domain scratch.team",
-        "there was a small window of time where you could backpack scratchblocks from the forums",
-        "the scratch team can see your gender",
-        "scratch projects are never deleted unless specifically you ask the scratch team to",
-        "scrath has a bug bounty program",
-        "scratch owns the domain scratch.pizza",
-        "scratch owns the domain scratch.love",
+        "The scratch team owns the domain scratch.team",
+        "There was a small window of time where you could backpack scratchblocks from the forums",
+        "The scratch team can see your gender",
+        "Scratch projects are never deleted unless specifically you ask the scratch team to",
+        "Scrath has a bug bounty program",
+        "Scratch owns the domain scratch.pizza",
+        "Scratch owns the domain scratch.love",
         "We are experiencing a disruption with email delivery. If you are not receiving emails from us, please try after 8am EST.",
         "backpack.scratch.mit.edu has a funny ghost",
         "download.scratch.mit.edu says Scratch On!",
         "downloads.scratch.mit.edu has a one of a kind error page",
         "downloads.scratch.ly just says No",
         "projects.scratch.mit.edu has an easter egg in the HTTP response headers",
-        "during scratch 2's development there was a built in scrolling system for projects",
-        "scratch has a discussion forum",
-        "each of gobo's friends names come from the metric prefix for powers of 10",
-        "today is probably someone's birthday on scratch",
-        "the first scratch project was id 104, everything with a lower id was added later",
-        "i want you to see za-chary's 5000 Followers Podcast",
-        "the scratch wiki has a wacky domain name",
-        "the scratch team's admin panel may have at some point had a template specifically for fnaf project alerts",
+        "During scratch 2's development there was a built in scrolling system for projects",
+        "Scratch has a discussion forum",
+        "Each of gobo's friends names come from the metric prefix for powers of 10",
+        "Today is probably someone's birthday on scratch",
+        "The first scratch project was id 104, everything with a lower id was added later",
+        "I want you to see za-chary's 5000 Followers Podcast",
+        "The scratch wiki has a wacky domain name",
+        "The scratch team's admin panel may have at some point had a template specifically for fnaf project alerts",
         "scratchdb might stand for scratch donut buffet",
-        "any scratch url starting https://scratch.mit.edu/go leads to a 403",
+        "Any scratch url starting https://scratch.mit.edu/go leads to a 403",
         "Insert a cool scratch fact here.",
         "RIP Geometry Dash Scratch...",
         "Wanna learn Python?",
@@ -203,18 +203,18 @@
     "store.steampowered.com": [
         "Are the Steam sales back yet?",
         "I want to meet Lord Gaben.",
-        "When is the last time you have seen sunlight?"
+        "When was the last time you have seen sunlight?"
     ],
     "twitch": "Is this website good now?",
     "minecraft": "Looks like Herobrine was here.",
     "amazon": [
         "Hey, do you mind ordering me a few things?",
         "HI ALEXA! :D",
-        "ALEXA PLEASE CALL ME BACK! I'VE CHANGED :C"
+        "ALEXA, PLEASE CALL ME BACK! I'VE CHANGED :C"
     ],
     "newegg": [
         "Buying some PC parts?",
-        "Try out ur local microcenter!"
+        "Try out ur local Microcenter!"
     ],
     "b&h video": "Buying some... actually... what ARE you buying?",
     "gamestop": "Wonder when the stock will shoot up again.",
@@ -241,7 +241,7 @@
     "wikipedia": [
         "Look for me! Look for ME!",
         "Is there anything that is NOT on this site?",
-        "There are likely more pages on this website than there are most things on the internet."
+        "There are likely more pages on this website than there are on the whole internet."
     ],
     "archive.org": "Can you use this to bring me back?",
     "itch.io": [
@@ -274,7 +274,7 @@
     ],
     "noctua": [
         "Best aircollers in the world!",
-        "Whens the new nh-d15 coming out?"
+        "When's the new NH-D15 coming out?"
     ],
     "wanshow.bing": "BINGO!",
     "whenplane": [
@@ -282,35 +282,35 @@
         "Why is the wan show so late?"
     ],
     "lttstore": "Who buys $70 screwdrivers?",
-    "thermalgrizzly": "Delliding a cpu?",
+    "thermalgrizzly": "Delliding a CPU?",
     "pcpartpicker": [
         "It appears you're trying to build a PC. Need some help?",
         "I only know a little about this.",
-        "I heard you shouldent save at least half of your budget for the GPU.",
+        "I heard you shouldn't save at least half of your budget for the GPU.",
         "Don't skimp on the power supply!",
-        "AMD CPUS usually come with a stock cooler. With preapplied thermal paste! :D",
+        "AMD CPUS usually come with a stock cooler. With pre-applied thermal paste! :D",
         "If you're buying a K-skew Intel CPU, make sure your motherboard supports overclocking if ur getting it for overclocking and not the longer boosts.",
         "I hope you did your research.",
-        "You will need dual channel memory.",
+        "You will need dual-channel memory.",
         "Did you do your research?",
         "I'd save the case for last. Or maybe choose it first? Not sure.",
         "Get a 4000d airflow for ur case",
         "The total TDP of your system should GENERALLY be at least 50-60% of your power supply's wattage.",
         "Welcome to the PC Master Race.",
-        "Try a RMx shift psu",
-        "Get ur parts form microcenter",
-        "Noctua makes the best aircolers",
-        "If ur getting a AIO make sure it has noctua fans or get noctua static pressure optimised fans sepretly otherwise a NH-D15 will perform better",
-        "Arc a750 is best midrange gpu",
-        "use am5 or something so u can upgrade"
+        "Try an RMx shift PSU",
+        "Get ur parts from Microcenter.",
+        "Noctua makes the best air coolers.",
+        "If ur getting an AIO, make sure it has noctua fans or get noctua static pressure optimised fans separately otherwise, a NH-D15 will perform better.",
+        "Arc A750 is the best midrange GPU.",
+        "Use am5 or something so u can upgrade."
     ],
     "intel": [
         "Try amd",
-        "Arc a750 is best mid-range gpu"
+        "Arc A750 is the best mid-range GPU."
     ],
     "apple.com": [
         "Tell Tim that Bill rejected me. Tim can be my father instead.",
-        "I heard Siri was talking shit and she didn't think that I would hear it."
+        "I heard Siri was talking shit, and she didn't think that I would hear it."
     ],
     "hbo": "\"I just killed two of your favorite characters! :D\" - George R.R. Martin",
     "disney": "I'm about 67.34% sure these people own me now.",
@@ -335,7 +335,7 @@
         "No, making memes will not let you meet the Duck. Please stop asking.",
         "Ready to make jokes people will say they've seen before? Then you've come to the right place."
     ],
-    "new-tab-page": "The most viewed website on the internet.",
+    "newtab": "The most viewed website on the internet.",
     "halfstackconf.com": [
         "Hello Halfstack attendees!"
     ],
@@ -349,7 +349,7 @@
     ],
     "orangejellyfish.com": [
         "Team OJF are the best",
-        "For Serverless, I don't know any better team"
+        "For Serverless, I don't know any better team."
     ],
     "archlinux.org": [
         "I use Arch btw.",
@@ -359,7 +359,7 @@
     "instagram": [
         "Are you scrolling through memes instead of focusing on your studies? I have some educational resources that can make learning fun!",
         "Taking a break from work to browse funny cat videos? I've got a collection that will make you burst out laughing!",
-        "Do you know that \"@kevanatteberry\" is my dad? I would love to see his face again"
+        "Do you know that \"@kevanatteberry\" is my dad? I would love to see his face again."
     ],
     "instagram.com/kevanatteberry": [
         "HI DAD"
@@ -371,8 +371,8 @@
     "google.com/finance": [
         "Remember always stay informed about financial matters.",
         "Saving money is like planting seeds for your future. Try to save a little bit from each paycheck, even if it's just a small amount. Over time, it adds up!",
-        "JOKE: A client asks his adviser, \"is all my money really gone?\"\"No, of course not,\" the adviser says.\"It's just with somebody else!\". HAHAHA",
-        "JOKE: After I spoke to my financial adviser I slept like a baby. I woke up every hour and cried. HAHAHA"
+        "JOKE: A client asks his adviser, \"Is all my money really gone?\"\"No, of course not,\" the adviser says.\"It's just with somebody else!\". HAHAHA",
+        "JOKE: After I spoke to my financial adviser, I slept like a baby. I woke up every hour and cried. HAHAHA"
     ],
     "chatgpt.com": [
         "Oh, great, another human relying on AI to do their thinking for them.",
@@ -414,13 +414,13 @@
         "Bloxd.io is not a dating site.",
         "Also try CraftMine!",
         "RIP Stardue...",
-        "RIP Mattzap... He was a Legend...",
+        "RIP Mattzap... You was a Legend...",
         "Who even plays Bingo?",
         "If you pay 10 bucks, you can get these cool lightning capes.",
         "They should add BloxD Fruits.",
-        "An iron watermelon is a good source of iron.",
+        "The iron watermelon is a good source of iron.",
         "They finally added updated gamemode descriptions.",
-        "No, this is not Roblox.",
+        "No, this is not Roblox, buddy.",
         "Greenville is not an Adopt Me game.",
         "It appears that you are trying to play Minecraft but with Firearms.",
         "Grow & Farm is just a Bloxd.io Edition of Farming Simulator.",
@@ -462,7 +462,7 @@
         "It appears that you are trying to play bloxd.io. Need any gamemode recommendations?",
         "You are very \"resourceful\" with your time.",
         "It appears that the site owner doesn't know how to code...",
-        "Join the discord!",
+        "Join the Discord!",
         "It appears that the site is made by Martin_MMC.",
         "Who even uses \"Bloxd Comic Studio\"?",
         "Hello Pro Player!"
