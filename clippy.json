@@ -24,7 +24,9 @@
     "github.com/capJavert/clippy": "Hey look, it's my code!",
     "github": [
         "Need lessons in Python?",
+        "Need lessons in Lua?",
         "Need lessons in Go?",
+        "Need lessons in Java?",
         "Octocat is the best!",
         "I am programmed to reflexively shield my eyes from Assembly.",
         "Source control is a magical thing.",
@@ -68,7 +70,12 @@
         "Taking a break from work to browse funny cat videos? I've got a collection that will make you burst out laughing!",
         "BFDI is one of my favourite series!",
         "That essay is not going to write itself...",
-        "Maybe try microsoft stream? wink wink..."
+        "Maybe try microsoft stream? wink wink...",
+        "https://www.youtube.com/watch?v=aS8U_XfVz6s contains 3 kids playing around in what looks like an office warehouse building.",
+        "https://www.youtube.com/watch?v=l58wGLSoIbg contains an animation of a hurricane season.",
+        "https://www.youtube.com/watch?v=DGIZyD5-5gE contains a set of characters trying to bring back a blue four then succeeding.",
+        "https://www.youtube.com/watch?v=lUBhF3zeKi0 contains a guy talking about how Clash of Clans suck.",
+        "https://www.youtube.com/watch?v=-oaTMSIyNpM contains a deconstruction of Ice Cap Zone by Brad Buxer."
     ],
     "slack": "Oh, so formal!",
     "duckduckgo": "You just made google angry!",
@@ -158,7 +165,7 @@
     "scratch.mit.edu": [
         "Time to start from scratch! Get it?",
         "Block coding is pretty cool!",
-        "Wanna learn python?",
+        "Wanna learn Python?",
         "gobo might have been the mascot for scratch",
         "the scratch team owns the domain scratch.team",
         "there was a small window of time where you could backpack scratchblocks from the forums",
@@ -172,6 +179,7 @@
         "download.scratch.mit.edu says Scratch On!",
         "downloads.scratch.mit.edu has a one of a kind error page",
         "downloads.scratch.ly just says No",
+        "scratch.love currently currently has a 'Varnish cache server' error as of Aug 14, 2025 7:33:27 PM @ GMT+8 hrs.",
         "projects.scratch.mit.edu has an easter egg in the HTTP response headers",
         "during scratch 2's development there was a built in scrolling system for projects",
         "scratch has a discussion forum",
@@ -185,10 +193,13 @@
         "any scratch url starting https://scratch.mit.edu/go leads to a 403",
         "Insert a cool scratch fact here.",
         "RIP Geometry Dash Scratch...",
-        "Wanna learn Python?",
-        "Wanna learn java?",
-        "Wanna learn lua?",
-        "Wanna learn html5?"
+        "Insert an obsolete scratch fact here.",
+        "Insert a domain-related scratch fact here",
+        "Wanna learn Java?",
+        "Wanna learn Lua?",
+        "Wanna learn HTML5?",
+        "I believe this site was made to teach kids about coding.",
+        "mystman12 is also in here."
     ],
     "discord.com": [
         "Chatting with friends, aren't you?",
@@ -246,7 +257,8 @@
     "archive.org": "Can you use this to bring me back?",
     "itch.io": [
         "I've got an itch, and it can only be scratched by a new indie game.",
-        "Any new Game Jams coming up?"
+        "Any new Game Jams coming up?",
+        "mystman12 is a legend."
     ],
     "storyfire": "Please knock some sense into YouTube for me.",
     "ebay": [
@@ -325,7 +337,10 @@
     "foldingathome": "You're a good person.",
     "soundcloud": "Are you trying to start a rap album?",
     "urbandictionary": [
-        "The BEST dictionary on the web."
+        "The BEST dictionary on the web.",
+        "cw_amen02_165",
+        "Memes are there too.",
+        "Search it, my boyonocerous!"
     ],
     "dictionary.com": "Oxford Dictionary, but more approachable.",
     "knowyourmeme": "One of the few sources of meme knowledge that hasn't been frowned upon. Yet.",
@@ -362,7 +377,12 @@
         "Do you know that \"@kevanatteberry\" is my dad? I would love to see his face again"
     ],
     "instagram.com/kevanatteberry": [
-        "HI DAD"
+        "HI DAD",
+        "HELLO DAD",
+        "WHATSUP DAD",
+        "WAZZUP DAD",
+        "WHAT IS UP DAD",
+        "I WOULD ASK WHAT IS CURRENTLY ABOVE US RIGHT NOW DAD"
     ],
     "genshin.hoyoverse.com": [
         "DON'T DO IT",
@@ -478,5 +498,15 @@
         "Why read daily.dev when I can read it for you?",
         "I also read daily.dev!",
         "Keeping up with your reading streak?"
+    ],
+    "websim.com": [
+        "does this have Phi-4?",
+        "BRING BACK SONNET :(((((((",
+        "Branched by sodLITE!",
+        "It appears that you are trying to do a prompt. Would you like prompt ideas?"
+    ],
+    "planedatabase.com": [
+        "Not to be confused with https://planedatabase-com-bbs--sodalitefb.on.websim.com/.",
+        "owern.png"
     ]
 }
