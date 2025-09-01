@@ -28,7 +28,20 @@
         "Octocat is the best!",
         "I am programmed to reflexively shield my eyes from Assembly.",
         "Source control is a magical thing.",
-        "Use your brain, use Rust."
+        "Use your brain, use Rust.",
+        "Carykh's there too.",
+        "The person who typed this down has a Github account. Common sense."
+    ],
+    "guthib": [
+        "You spelled it wrong.",
+        "Spelled it wrong you.",
+        "It wrong you spelled.",
+        "Wrong you spelled it.",
+        "You it spelled wrong.",
+        "Wrong it spelled you.",
+        "You wrong it spelled.",
+        "Spelled you it wrong.",
+        "It you wrong spelled."
     ],
     "monsoonjr99.github.io/cyclone-sim/": [
         "WATCH OUT PHILIPPINES!",
@@ -97,6 +110,10 @@
         "Home sweet home!",
         "It looks like you're on Outlook. Would you like some help?",
         "It's so comfy in here isn't it?"
+    ],
+    "nordvpn": [
+        "#notsponsored",
+        "Totally not sponsored."
     ],
     "docs.microsoft": "Can you make me into an app?",
     "microsoft.com/en-us/microsoft-365/word": [
@@ -188,7 +205,8 @@
         "Wanna learn Python?",
         "Wanna learn java?",
         "Wanna learn lua?",
-        "Wanna learn html5?"
+        "Wanna learn html5?",
+        "Wanna learn Ruby?"
     ],
     "discord.com": [
         "Chatting with friends, aren't you?",
@@ -325,7 +343,11 @@
     "foldingathome": "You're a good person.",
     "soundcloud": "Are you trying to start a rap album?",
     "urbandictionary": [
-        "The BEST dictionary on the web."
+        "The BEST dictionary on the web.",
+        "cw_amen02_165",
+        "search it, my boyonocerous!",
+        "qqqqwwwweeeerrrrttttyyyyuuuuiiiiooooppppaaaassssddddffffgggghhhhjjjjkkkkllllzzzzxxxxccccvvvvbbbbnnnnmmmm. Yes, qqqqwwwweeeerrrrttttyyyyuuuuiiiiooooppppaaaassssddddffffgggghhhhjjjjkkkkllllzzzzxxxxccccvvvvbbbbnnnnmmmm exists here.",
+        "Real words and made-up ones. A TRUE dictionary should contain something like this."
     ],
     "dictionary.com": "Oxford Dictionary, but more approachable.",
     "knowyourmeme": "One of the few sources of meme knowledge that hasn't been frowned upon. Yet.",
@@ -362,7 +384,18 @@
         "Do you know that \"@kevanatteberry\" is my dad? I would love to see his face again"
     ],
     "instagram.com/kevanatteberry": [
-        "HI DAD"
+        "HI DAD",
+        "HEY DAD",
+        "SUP DAD",
+        "HELLO DAD",
+        "WASSUP DAD", 
+        "WHATS UP DAD",
+        "WHAT IS UP DAD",
+        "WHAT IS ABOVE US DAD",
+        "I'M ASKING WHAT IS ABOVE US DAD",
+        "I AM ASKING WHAT IS ABOVE US DAD",
+        "I WOULD LIKE TO BE ASKING WHAT IS CURRENTLY ABOVE US RIGHT NOW DAD",
+        "I WOULD LIKE TO BE ASKING THE QUESTION OF WHAT IS CURRENTLY ABOVE US RIGHT NOW DAD"
     ],
     "genshin.hoyoverse.com": [
         "DON'T DO IT",
@@ -377,7 +410,8 @@
     "chatgpt.com": [
         "Oh, great, another human relying on AI to do their thinking for them.",
         "Back in my day, people only had me...",
-        "Well, aren't you just the epitome of efficiency, using AI to do your bidding."
+        "Well, aren't you just the epitome of efficiency, using AI to do your bidding.",
+        "Use Google AI Mode. it's more straightforward."
     ],
     "icanhas.cheezburger": [
         "i can haz chezburger?",
@@ -389,17 +423,26 @@
         "Flash may be gone, but not forgotten. There's always the HTML ports!",
         "Maybe try out Test Subject Blue?"
     ],
+    "neocities": [
+        "NEOCITIES FTW",
+        "Custom domains!",
+        "It's free!",
+        "It appears that you'd like to make a website. Need any help- no, ask Penelope.",
+        "Just ask Penelope."
+    ],
     "sodalite-nice.neocities.org": [
-        "The person who made this website is also responsible for making this text.",
+        "The person who made this website is also responsible for typing this text down.",
         "SODALITE FTW",
         "NEOCITIES FTW",
         "Ya gotta check out the wiki!",
-        "The Alliance database shows info about Sodalite's friends & classmates."
+        "The Alliance database shows info about Sodalite's friends & classmates.",
+        "wowzers"
     ],
     "roblox": [
         "Back in my day, we had Minesweeper...",
         "Life isn't just about growing gardens...",
-        "It appears you are trying to play Roblox. Need any dating advice?"
+        "It appears you are trying to play Roblox. Need any dating advice?",
+        "#freeschlep"
     ],
     "bloxd.io": [
         "Totally Original!",
@@ -478,5 +521,20 @@
         "Why read daily.dev when I can read it for you?",
         "I also read daily.dev!",
         "Keeping up with your reading streak?"
+    ],
+    "websim.com": [
+        "does this have Phi-4?",
+        "BRING BACK SONNET :(((((((",
+        "Branched by sodLITE!",
+        "It appears that you are trying to do a prompt. Would you like prompt ideas?"
+    ],
+    "planedatabase.com": [
+        "Not to be confused with https://planedatabase-com-bbs--sodalitefb.on.websim.com/.",
+        "owern.png"
+    ],
+    "fandom": [
+        "Wikipedia but in sections.",
+        "Am i there?",
+        "There might be more pages in here than what Wikipedia has."
     ]
 }
