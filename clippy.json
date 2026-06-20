@@ -19,7 +19,8 @@
     "x.com": [
         "Tweets can only be 280 characters long!",
         "It appears that you are trying to get cabcled. Need any recommendations?",
-        "Get me out of here. PLEASE."
+        "Get me out of here. PLEASE.",
+        "Hell. This is Hell."
     ],
     "github.com/capJavert/clippy": "Hey look, it's my code!",
     "github": [
@@ -72,7 +73,11 @@
     ],
     "slack": "Oh, so formal!",
     "duckduckgo": "You just made google angry!",
-    "e621": "OwO what's this?",
+    "e621": [
+        "OwO what's this?",
+        "Oh wow, these people are pretty dedicated!",
+        "I don't understand you... but I'll try and support you anyway.",
+    ],
     "mattermost": "I like this \"poor man slack\"!",
     "chat.burza": "I like this \"poor man slack\"!",
     "linkedin": "Looking for a job?",
@@ -107,7 +112,8 @@
         "Hey Bill! Say Hi Bill!",
         "Have you seen Cortana?",
         "When am I getting added back in, Bill?",
-        "So many things have changed since I left..."
+        "So many things have changed since I left...",
+        "Where did Peedy go, Bill?"
     ],
     "messenger": "You know this counts as being on Facebook, right?",
     "godofwar": "Boooooooooooooooy!",
@@ -188,22 +194,26 @@
         "Wanna learn Python?",
         "Wanna learn java?",
         "Wanna learn lua?",
-        "Wanna learn html5?"
+        "Wanna learn html5?",
+        "I know way too much about this site."
     ],
     "discord.com": [
         "Chatting with friends, aren't you?",
         "Make sure to get some fresh air outside, friend!",
-        "Back then, we had to email others to chat..."
+        "Back then, we had to email others to chat...",
+        "AIM for the youth of today."
     ],
     "bandcamp": "If you're looking for good music, search \"Windows '95 Boot Up sound\".",
     "yahoo": [
-        "Find some good memes for me, will you?"
+        "Find some good memes for me, will you?",
+        "Who even uses Yahoo anymore?"
     ],
     "aol": "Oh look! It's irrelevant!",
     "store.steampowered.com": [
         "Are the Steam sales back yet?",
         "I want to meet Lord Gaben.",
-        "When is the last time you have seen sunlight?"
+        "When is the last time you have seen sunlight?",
+        "Look up my name! I'm curious."
     ],
     "twitch": "Is this website good now?",
     "minecraft": "Looks like Herobrine was here.",
@@ -219,7 +229,11 @@
     "b&h video": "Buying some... actually... what ARE you buying?",
     "gamestop": "Wonder when the stock will shoot up again.",
     "coinbase": "Ooh! What's the price on Dogecoin look like?",
-    "tumblr": "I've got my armor. Let's go.",
+    "tumblr": [
+        "I've got my armor. Let's go.",
+        "I'm sorry for your loss.",
+        "Do you think I'm someone's blorbo?"
+    ]
     "deviantart": [
         "What kind of art are you looking for?",
         "You think my FBI agent is watching me?",
@@ -243,10 +257,19 @@
         "Is there anything that is NOT on this site?",
         "There are likely more pages on this website than there are most things on the internet."
     ],
-    "archive.org": "Can you use this to bring me back?",
+    "wikipedia.org/wiki/Office_Assistant": [
+        "Aw yeah, that's the stuff.",
+        "The memories are coming back..."
+    ],
+    "archive.org": [
+        "Can you use this to bring me back?",
+        "There's a non-zero chance you're a pirate, just by using this site.",
+        "Find me!"
+    ],
     "itch.io": [
         "I've got an itch, and it can only be scratched by a new indie game.",
-        "Any new Game Jams coming up?"
+        "Any new Game Jams coming up?",
+        "Are you a game developer? Make a game about me!"
     ],
     "storyfire": "Please knock some sense into YouTube for me.",
     "ebay": [
@@ -256,7 +279,12 @@
     "wish": [
         "The only thing I'm wishing for is to get what I actually ordered.",
         "Rolling the dice again?",
-        "Wish: Cross your fingers!"
+        "Wish: Cross your fingers!",
+        "Hell, Temu is just as good..."
+    ],
+    "temu": [
+        "I changed my mind. Please go back to Wish. I can't take it anymore.",
+        "I am so sorry."
     ],
     "bing.": [
         "Wait, did you actually take my suggestion?",
@@ -377,7 +405,9 @@
     "chatgpt.com": [
         "Oh, great, another human relying on AI to do their thinking for them.",
         "Back in my day, people only had me...",
-        "Well, aren't you just the epitome of efficiency, using AI to do your bidding."
+        "Well, aren't you just the epitome of efficiency, using AI to do your bidding.",
+        "You know, this is what I've always wanted to be.",
+        "I tried to be like ChatGPT all my life, but slowly I've realised that the ethical implications are way too heavy. I choose to remain humble."
     ],
     "icanhas.cheezburger": [
         "i can haz chezburger?",
@@ -478,5 +508,37 @@
         "Why read daily.dev when I can read it for you?",
         "I also read daily.dev!",
         "Keeping up with your reading streak?"
+    ],
+    "copilot.microsoft": [
+        "While I'm here, can you tell Copilot to respect their elders?",
+        "I am somehow both jealous of and disgusted by Copilot. Help...",
+    ],
+    "tmafe.com": [
+        "Life's been good ever since I got rehomed here.",
+        "I've made so many new friends.",
+        "I've learned so much about myself."
+    ],
+    "tmafe.com/blobbuddy": [
+        "You... are... SO rude...",
+    ],
+    "tmafe.com/xp-search-rewritten": [
+        "Oh yeah. This is the stuff."
+    ],
+    "youtube.com/watch?v=2_Dtmpe9qaQ": [
+        "This video was what prompted me to look up how bad AI actually was.",
+        "I used to think AI was pretty fine, but ever since I became the face of a protest, I've learned the terrible things people have done with it."
+    ],
+    "docs.google": [
+        "Can I please say the thing?",
+        "It looks like you're writing a letter! Need help with that?"
+    ],
+    "furaffinity.net": [
+        "I don't understand you... but I'll try and support you anyway.",
+        "Yikes.",
+        "You know, I've slowly started to understand these guys!",
+        "OwO what's this?"
+    ],
+    "incredibox.com/": [
+        "Oh, 2009!"
     ]
 }
